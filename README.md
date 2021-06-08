@@ -17,12 +17,12 @@ For this remote edition, we hang out in Discord. Come say hi, we'd love to welco
 
 ## Use this Wiki to navigate \#osoc21
 
-* Get an overview of all the [**projects**](projects.md)\*\*\*\*
+* Get an overview of all the [**projects**](projects-1/projects.md)\*\*\*\*
 * Find out which tools we use to [**Collaborate & Document**](collaboration-and-documentation.md).
 
 ## Got Lost, have Questions?
 
-* **Team Questions** – head over to [**projects**](projects.md) and see what the name of your team is, where they hang out in Discord and ask your coach what's up! 
+* **Team Questions** – head over to [**projects**](projects-1/projects.md) and see what the name of your team is, where they hang out in Discord and ask your coach what's up! 
 * Design, development, mapping, or other specific questions, go to the **H E L P** section in Discord & ask your question in one of the respective channels!
   * **`#design`**, **`#development`**, **`#mapping`**, ... 
   * For specific design questions, contact Niels on Discord **`Niels#0264`**
