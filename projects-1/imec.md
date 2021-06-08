@@ -1,2 +1,2 @@
-# imec – ratchet ticker / mobiele rateltikker
+# imec
 

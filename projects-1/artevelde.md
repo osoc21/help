@@ -1,2 +1,2 @@
-# Artevelde – EduBadges
+# Artevelde Hogeschool & Deloitte
 

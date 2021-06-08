@@ -1,2 +1,2 @@
-# Deloitte – Future of Work
+# Deloitte
 

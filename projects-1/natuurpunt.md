@@ -1,2 +1,2 @@
-# Natuurpunt – Mapcomplete
+# Natuurpunt
 
