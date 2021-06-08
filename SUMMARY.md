@@ -2,5 +2,6 @@
 
 * [\#osoc21](README.md)
 * [Projects](projects.md)
-* [Collaboration & Documentation](collaboration-and-documentation.md)
+* [Collab & Docs](collaboration-and-documentation.md)
+* [Coaches](coaches.md)
 
