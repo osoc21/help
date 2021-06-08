@@ -7,5 +7,8 @@
 ## Projects <a id="projects-1"></a>
 
 * [Project overview](projects-1/projects.md)
-* [imec - ratchet ticker / mobiele rateltikker](projects-1/imec-ratchet-ticker-mobiele-rateltikker.md)
+* [Artevelde – EduBadges](projects-1/artevelde.md)
+* [imec – ratchet ticker / mobiele rateltikker](projects-1/imec.md)
+* [Natuurpunt – Mapcomplete](projects-1/natuurpunt.md)
+* [Deloitte – Future of Work](projects-1/deloitte.md)
 
