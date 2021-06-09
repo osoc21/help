@@ -10,6 +10,7 @@
 * [ABB – MOW – AWV](projects-partners/abb-mow-awv.md)
 * [ADV](projects-partners/adv.md)
 * [Artevelde Hogeschool & Belnet](projects-partners/artevelde.md)
+* [Arvesta](projects-partners/arvesta.md)
 * [Deloitte](projects-partners/deloitte.md)
 * [IDLab](projects-partners/idlab.md)
 * [imec](projects-partners/imec.md)
