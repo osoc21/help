@@ -14,3 +14,7 @@ For collaboration & storing files
 
 ## Councillors
 
+## Logo
+
+![](../.gitbook/assets/agentschap-digitaal-vlaanderen-logo-1-.svg)
+

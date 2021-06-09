@@ -9,7 +9,7 @@
 * [Project overview](projects-1/projects.md)
 * [ABB – MOW – AWV](projects-1/abb-mow-awv.md)
 * [ADV](projects-1/adv.md)
-* [Artevelde Hogeschool & Deloitte](projects-1/artevelde.md)
+* [Artevelde Hogeschool & Belnet](projects-1/artevelde.md)
 * [Deloitte](projects-1/deloitte.md)
 * [IDLab](projects-1/idlab.md)
 * [imec](projects-1/imec.md)
