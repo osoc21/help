@@ -15,9 +15,14 @@ The description of your project: [https://cloud.openknowledge.be/s/Jae8GRotyow5D
 
 _In progress._
 
+### Repository
+
+_In progress_
+
 ## File Storage
 
-For collaboration & storing files: [https://drive.google.com/drive/folders/14a-VvyCqX173w4iYQ1xM32PEe5ekTqfc?usp=sharing](https://drive.google.com/drive/folders/14a-VvyCqX173w4iYQ1xM32PEe5ekTqfc?usp=sharing)
+_For collaboration & storing files._  
+[**https://drive.google.com/drive/folders/14a-VvyCqX173w4iYQ1xM32PEe5ekTqfc?usp=sharing**](https://drive.google.com/drive/folders/14a-VvyCqX173w4iYQ1xM32PEe5ekTqfc?usp=sharing)\*\*\*\*
 
 ## Coaches
 

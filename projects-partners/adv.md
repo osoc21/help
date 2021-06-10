@@ -8,9 +8,16 @@ description: Agentschap Digitaal Vlaanderen –Agency Digital Flanders
 
 ### Resources
 
-## Drive storage
+_In progress._
 
-For collaboration & storing files
+### Repository
+
+_In progress_
+
+## File storage
+
+_For collaboration & storing files._  
+[**https://drive.google.com/drive/folders/1D-I5DlVeH8CEXhkOAnvQ9cM1qaQAXlj-?usp=sharing**](https://drive.google.com/drive/folders/1D-I5DlVeH8CEXhkOAnvQ9cM1qaQAXlj-?usp=sharing)\*\*\*\*
 
 ## Coaches
 

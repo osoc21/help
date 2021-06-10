@@ -4,9 +4,16 @@
 
 ### Resources
 
-## Drive storage
+_In progress._
 
-For collaboration & storing files
+### Repository
+
+_In progress_
+
+## File storage
+
+_For collaboration & storing files._  
+[**https://drive.google.com/drive/folders/1mELCT1ovz\_5SUkVLe-AAU9pbTsgAaWNZ?usp=sharing**](https://drive.google.com/drive/folders/1mELCT1ovz_5SUkVLe-AAU9pbTsgAaWNZ?usp=sharing)\*\*\*\*
 
 ## Coaches
 

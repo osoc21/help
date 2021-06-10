@@ -14,11 +14,13 @@ _Your partner will give you a nice introduction as well on the first partner mee
 * Using ember.js [https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/ember.js](https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/ember.js)
 * Style components [https://abb-vlaanderen.gitbook.io/abb/v/english/development/front-end/css](https://abb-vlaanderen.gitbook.io/abb/v/english/development/front-end/css)
 
-## Drive storage
+### Repository
 
-_For collaboration & storing files._
+_In progress_
 
-\*\*\*\*[**https://drive.google.com/drive/folders/1tOHAE9ACMc2i2MZcimfIaQTnfaGAadeU?usp=sharing**](https://drive.google.com/drive/folders/1tOHAE9ACMc2i2MZcimfIaQTnfaGAadeU?usp=sharing)\*\*\*\*
+## File storage
+
+_For collaboration & storing files._ [**https://drive.google.com/drive/folders/1tOHAE9ACMc2i2MZcimfIaQTnfaGAadeU?usp=sharing**](https://drive.google.com/drive/folders/1tOHAE9ACMc2i2MZcimfIaQTnfaGAadeU?usp=sharing)\*\*\*\*
 
 ## Coaches
 
