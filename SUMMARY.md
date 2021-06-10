@@ -2,7 +2,11 @@
 
 * [\#osoc21](README.md)
 * [Collab & Docs](collaboration-and-documentation.md)
-* [Coaches](coaches.md)
+* [Coaches, Student Coaches & Councillors](coaches/README.md)
+  * [👩‍🎤 Visual](coaches/visual.md)
+  * [🦄 Communication & Strategy](coaches/communication-and-strategy.md)
+  * [🦹🏽 Development](coaches/development.md)
+  * [🧙🏼‍♀️Coaching](coaches/coaching.md)
 
 ## Projects & Partners <a id="projects-partners"></a>
 
