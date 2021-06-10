@@ -13,7 +13,6 @@
 | \*\*\*\*[**Oost Vlaanderen**](oost-vlaanderen.md)\*\*\*\* | Bike Infrastructure | Pol \(HT\) + Joost \(HT\) |  |
 | \*\*\*\*[**osoc sponsored by Fris**](osoc-fris.md)\*\*\*\* | osoc communications team | Astrid \(HT\) & Miet \(HT\) | Niels \(FT\) |
 | \*\*\*\*[**osoc sponsored by osoc**](osoc-selections.md) | osoc diversity selections | Astrid \(HT\) & Miet \(HT\) | Michiel \(HT\) |
-| \*\*\*\*[**osoc sponsored by  BOSA**](osoc-bosa.md)\*\*\*\* | osoc selections for BOSA | **`TBC`** Christophe \(FT\) | Bert + Emma \(HT\) |
 | \*\*\*\*[**Stad Gent / UGent**](stad-gent-ugent.md)\*\*\*\* | Bustle meter \(druktemeter\) | Michael \(FT\) | Christophe \(FT\) |
 | \*\*\*\*[**VLIZ**](vliz.md)\*\*\*\* | Publication reference string parser | **`TBC`** Christophe \(FT\) | Liesbeth \(HT\) |
 
