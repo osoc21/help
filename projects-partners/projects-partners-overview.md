@@ -14,5 +14,5 @@
 | \*\*\*\*[**osoc sponsored by Fris**](osoc-fris.md)\*\*\*\* | osoc communications team | Astrid \(HT\) & Miet \(HT\) | Niels \(FT\) |
 | \*\*\*\*[**osoc sponsored by osoc**](osoc-selections.md) | osoc diversity selections | Astrid \(HT\) & Miet \(HT\) | Michiel \(HT\) |
 | \*\*\*\*[**Stad Gent / UGent**](stad-gent-ugent.md)\*\*\*\* | Bustle meter \(druktemeter\) | Michael \(FT\) | Christophe \(FT\) |
-| \*\*\*\*[**VLIZ**](vliz.md)\*\*\*\* | Publication reference string parser | **`TBC`** Christophe \(FT\) | Liesbeth \(HT\) |
+| \*\*\*\*[**VLIZ**](vliz.md)\*\*\*\* | Publication reference string parser | Christophe \(FT\) | Liesbeth \(HT\) |
 
