@@ -8,6 +8,7 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### Resources
 
+* About ABB [https://abb-vlaanderen.gitbook.io/abb/v/english/](https://abb-vlaanderen.gitbook.io/abb/v/english/)
 * Linked Data & SPARQL [https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/linked-data](https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/linked-data)
 * How to use Docker [https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/docker](https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/docker)
 * Using ember.js [https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/ember.js](https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/ember.js)
