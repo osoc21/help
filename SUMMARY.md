@@ -16,7 +16,6 @@
 * [imec](projects-partners/imec.md)
 * [Natuurpunt](projects-partners/natuurpunt.md)
 * [Oost-Vlaanderen](projects-partners/oost-vlaanderen.md)
-* [osoc-BOSA](projects-partners/osoc-bosa.md)
 * [osoc-FRIS](projects-partners/osoc-fris.md)
 * [osoc-selections](projects-partners/osoc-selections.md)
 * [Stad Gent – UGent](projects-partners/stad-gent-ugent.md)
