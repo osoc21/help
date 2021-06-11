@@ -111,6 +111,42 @@ MOW/ABB/AWV, Arvesta**
 To be completed, please add your data here or add it yourself on the repo 🙏 [https://tally.so/r/3Nl4Gn](https://tally.so/r/3Nl4Gn)
 {% endhint %}
 
+{% hint style="success" %}
+**Coach Demian \[demian\#0216 on Discord\]  
+ADV, IDLab**  
+Software Engineer at Skedify  
+  
+**Bio**  
+My name is Demian Dekoninck. I work at Skedify as a Full Stack Software Engineer where I \(most of the time\) work with Node.js and React.  
+  
+__**Skills**  
+__Back-end, Front-end  
+Node.js, JavaScript, TypeScript, PHP, Laravel, AWS, Terraform, Serverless, DynamoDB, Docker, Kubernetes, Microservices, GraphQL, GitHub, GitHub Actions, TailwindCSS, React.js, Next.js  
+[**https://dem.be**](https://dem.be)  
+****[**https://github.com/DemianD**](https://github.com/DemianD)  
+  
+**Good to know**  
+_Random fact: I love pizza Hawaii_ 🍕
+{% endhint %}
+
+{% hint style="success" %}
+**Coach Martin \[vanakenm\#3648** **on Discord\]  
+ADV, IDLab**  
+Freelancer at Joyous Coding  
+  
+**Bio**  
+I'm Martin. I've been developing software & helping other develop software for the last 20 years in companies big and small, but mostly startups. I like to build & ship stuff with nice people  
+  
+__**Skills**  
+__Maps, Tech lead, Coach  
+Python, JavaScript, React, Ruby, Django, Rails, Unit Test, Web Development  
+[**joyouscoding.com**](http://joyouscoding.com)  
+****[**http://github.com/vanakenm**](http://github.com/vanakenm)  
+  
+**Good to know**  
+_I'm 43_
+{% endhint %}
+
 ## Councillors
 
 {% hint style="info" %}
@@ -129,5 +165,96 @@ C\#, Typescript, HTML, Linux
   
 **Good to know**  
 _I once created a routeplanner avoiding cobblestone_
+{% endhint %}
+
+{% hint style="info" %}
+**Councillor Ruben \[Dexa\#7839 on Discord\]  
+IDLab**  
+PhD Student at Universiteit Gent  
+  
+**Bio**  
+I'm a PhD Student working on Linked Open Data Interfaces and Solid.  
+  
+__**Skills**  
+__Back-end  
+JavaScript / TypeScript, Python, React, Vue.js, nginx  
+[**https://github.com/dexagod**](https://github.com/dexagod)  
+  
+**Good to know**  
+_I like to do VR game development in my free time._
+{% endhint %}
+
+{% hint style="info" %}
+**Councillor Brecht \[Brecht\#1060 on Discord\]  
+ADV**  
+Semantic Web researcher at IDLab \(imec-ugent\)  
+  
+**Bio**  
+Hi! If you have a question relating to Linked Open Data, let me know!  
+  
+__**Skills**  
+__Back-end data modelling/mapping/publishing, Web APIs, Linked Data  
+Javascript \(node.js\)  
+[**https://knows.idlab.ugent.be/**](https://knows.idlab.ugent.be/)  
+****[**https://github.com/brechtvdv**](https://github.com/brechtvdv)  
+  
+**Good to know**  
+_In my spare time I'm working in my "mini farm". My wife and I are keeping bees, sheep and chickens and hope to share this authentic way of living with others._  
+****[**https://twitter.com/brechtvdv**](https://twitter.com/brechtvdv)\*\*\*\*
+{% endhint %}
+
+{% hint style="info" %}
+**Councillor Pieter C \[pietercolpaert\#8772 on Discord\]  
+ADV**  
+Semantic Web researcher at IDLab \(imec-ugent\)  
+  
+**Bio**  
+Pieter is a Linked Open Data researcher at Ghent University IDLab working on Linked Data Event Streams. He also co-founded Open Knowledge Belgium and started open summer of code together with Miet when they were still young.  
+  
+__**Skills**  
+__Back-end c, k, m  
+JavaScript, [**https://github.com/Comunica**](https://github.com/Comunica), ****[**https://github.com/rdfjs**](https://github.com/rdfjs)  
+[**https://pietercolpaert.be**](https://pietercolpaert.be)  
+****[**https://github.com/pietercolpaert**](https://github.com/pietercolpaert)  
+****[**https://tree.linkeddatafragments.org**](https://tree.linkeddatafragments.org)  
+  
+**Good to know**  
+_I use emacs and I’m too old to change now._
+{% endhint %}
+
+{% hint style="info" %}
+**Councillor Harm \[hdelva\#8697 on Discord\]  
+IDLab**  
+PhD Student at Ghent University - imec  
+  
+**Bio**  
+I am a PhD student at IDLab, affiliated with both Ghent University and imec. My original research subject lay at the intersection of the Semantic Web technologies and Linked Open Data publishing, but with a focus on researching how applications can find and use this data - beyond the traditional SPARQL usecase. I have worked on a flexible and multi-modal route planner, as well as an autocompletion client that can query several heterogeneous data sources at the same time. Our route planner is able to find subjectively pleasant routes by asking the user what they want to see while walking; see it in action here. And, because all computations are done on the client, there are no data-hoarding behemoths that are learning your opinions on shopping streets.
+
+Other than that, I have developed an appreciation for the intricacies of Geographic Information Systems \(GIS\), especially for Volunteered Geographic Information \(VGI\) projects such as OpenStreetmap and, closer to home, Telraam. Of course, it is not enough to simply publish Open Data: people must be able to find this data. Whenever time permits it, I like to work on making data discoverable, and try to follow the developments within the FAIR community. Alternatively, I would like to help pave the way towards more mature WebAssembly tooling for working with RDF data — my applications have a need for speed.  
+  
+__**Skills**  
+__Back-end, Linked Data, Solid  
+Python, Rust, Typescript  
+[**https://hdelva.be**](https://hdelva.be/)  
+****[**https://github.com/hdelva**](https://github.com/hdelva)  
+  
+**Good to know**  
+_I would love to explore Semantic Web applications that focus on pen-and-paper games, such as as Dungeons & Dragons. Why spend years modelling and gathering data from the real world, when there are perfectly suitably imaginary worlds out there?_
+{% endhint %}
+
+{% hint style="info" %}
+**Councillor Dwight \[ddvlanck\#5582 on Discord\]  
+ADV**  
+Information Architect at Digital Flanders  
+  
+**Bio**  
+/  
+  
+__**Skills**  
+__Back-end  
+****[**https://github.com/ddvlanck**](https://github.com/ddvlanck)  
+  
+**Good to know  
+/**
 {% endhint %}
 

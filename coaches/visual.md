@@ -59,3 +59,24 @@ React, VueJS, NodeJS, Laravel, Design
 _I only missed two oSoc editions since the beginning so my oSoc T-Shirt collection game is strong._
 {% endhint %}
 
+{% hint style="success" %}
+**Coach Xavier \[Ξavier\#1866 on Discord\]  
+ADV, IDLab**  
+Head of Product & Design at Mono  
+  
+**Bio**  
+As the co-founder and managing partner of Mono, I help tech companies ship products that people love. By combining the right product strategy with solid interface design, customers can improve satisfaction ratings, stay ahead of their competitors and build products that have the right kind of impact. I have worked with companies in Belgium, throughout Europe, in China and the U.S.A.
+
+Through my work, I hope to make our interactions with technology more meaningful. I’ve worked on tech products in the healthcare, big data, and proptech industries, as well as for governments.  
+  
+__**Skills**  
+__UI Design, Coaching & Design Career Development, Product Management, UX Research, Front-end  
+Design Career Journeys, Mental Models, My Brain, Roam Research, Notion, Figma, Sketch, HTML, CSS, JS  
+[**https://xavierbertels.com**](https://xavierbertels.com)  
+****[**https://github.com/xavez**](https://github.com/xavez)  
+****[**https://mono.company**](https://mono.company)  
+  
+**Good to know**  
+_Talk to me about martial arts, music, tea or random facts from Wikipedia!_
+{% endhint %}
+

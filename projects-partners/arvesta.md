@@ -33,7 +33,9 @@ _For collaboration & storing files._
 **Coach Jodi \[Jodi De Loof\#6665 on Discord\]  
 MOW/ABB/AWV, Arvesta**  
   
-To be completed, please add your data here or add it yourself on the repo 🙏 [https://tally.so/r/3Nl4Gn](https://tally.so/r/3Nl4Gn)
+[**https://github.com/jodiDL**](https://github.com/jodiDL)  
+  
+****To be completed, please add your data here or add it yourself on the repo 🙏 [https://tally.so/r/3Nl4Gn](https://tally.so/r/3Nl4Gn)
 {% endhint %}
 
 ### Students
