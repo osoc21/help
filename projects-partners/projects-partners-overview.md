@@ -2,7 +2,7 @@
 
 | Partner name | Project name | Lead coach | Assistant coach |
 | :--- | :--- | :--- | :--- |
-| \*\*\*\*[**ABB, MOW & AWV**](abb-mow-awv.md)\*\*\*\* | Road Marks & Traffic Signs | Jodi \(FT\) | Inti \(HT\) |
+| \*\*\*\*[**ABB, MOW & AWV**](abb-mow-awv.md)\*\*\*\* | Open & Safe Roads | Jodi \(FT\) | Inti \(HT\) |
 | \*\*\*\*[**Artevelde Hogeschool & Belnet**](artevelde.md) **** | EduBadges | Emma \(HT\) | Bert |
 | \*\*\*\*[**Arvesta**](arvesta.md)\*\*\*\* | Hackathon | Niels \(FT\) | Jodi \(FT\) |
 | \*\*\*\*[**ADV**](adv.md)\*\*\*\* | Linked Data Event Streams | Demian \(HT\) | Martin \(HT\) & Xavier \(HT\) |

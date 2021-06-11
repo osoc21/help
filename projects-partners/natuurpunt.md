@@ -68,8 +68,6 @@ _In progress_
 
 ## Councillors
 
-
-
 {% hint style="info" %}
 **Councillor Pieter VDVN \[pietervdvn\#0638 on Discord\]  
 Maps, Natuurpunt & Oost-Vlaanderen**  

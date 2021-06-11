@@ -86,6 +86,31 @@ _I will make detours to be able to improve OpenStreetMap._
 [**https://www.openstreetmap.org/user/joost%20schouppe/**](https://www.openstreetmap.org/user/joost%20schouppe/)\*\*\*\*
 {% endhint %}
 
+{% hint style="success" %}
+**Coach Michael \[yungpanda\#3724 on Discord\]  
+Bustle meter / Druktemeter, Mobile Ratchetticker / Mobiele Rateltikker, osoc-selections**  
+Freelance app developer at YungPanda \| Lecturer at Arteveldehogeschool  
+  
+**Bio**  
+I'm a creative app developer and teacher..  
+  
+__**Skills**  
+__Front-end  
+React, VueJS, NodeJS, Laravel, Design  
+[**https://yungpanda.com**](https://yungpanda.com)  
+****[**https://github.com/yungpanda**](https://github.com/yungpanda)  
+  
+**Good to know**  
+_I only missed two oSoc editions since the beginning so my oSoc T-Shirt collection game is strong._
+{% endhint %}
+
+{% hint style="success" %}
+**Coach Jodi \[Jodi De Loof\#6665 on Discord\]  
+MOW/ABB/AWV, Arvesta**  
+  
+To be completed, please add your data here or add it yourself on the repo 🙏 [https://tally.so/r/3Nl4Gn](https://tally.so/r/3Nl4Gn)
+{% endhint %}
+
 ## Councillors
 
 {% hint style="info" %}

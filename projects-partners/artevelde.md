@@ -8,18 +8,41 @@ _In progress._
 
 ### Repository
 
-_In progress_
+_In progress._
 
 ## File storage
 
 _For collaboration & storing files._  
 [**https://drive.google.com/drive/folders/1mELCT1ovz\_5SUkVLe-AAU9pbTsgAaWNZ?usp=sharing**](https://drive.google.com/drive/folders/1mELCT1ovz_5SUkVLe-AAU9pbTsgAaWNZ?usp=sharing)\*\*\*\*
 
-## Coaches
-
 ## Team
 
-## Councillors
+### Coaches
+
+{% hint style="success" %}
+**Coach Emma \[emmastoks\#5746 on Discord\]  
+Artevelde Hogeschool & Belnet**  
+Chair ****at Open Fields Foundation  
+  
+**Bio**  
+At 17, I chose not to go to college, but instead make the world my university. I created Emma's College and dove deep into the world of innovative learning and development. Today I run the Open Fields Foundation, where we focus on making the world a little more equal by opening up information, sectors and \(academic\) disciplines.  
+  
+__**Skills**  
+__Storytelling, self-directed learning, career development  
+[**https://www.openfieldsfoundation.com/**](https://www.openfieldsfoundation.com/)  
+****[**https://github.com/emmastoks**](https://github.com/emmastoks)  
+  
+**Good to know**  
+_I cook a great pasta al limone_
+{% endhint %}
+
+#### Lead
+
+#### Support
+
+### Students
+
+_In progress._
 
 ## Logo's
 

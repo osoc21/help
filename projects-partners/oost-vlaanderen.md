@@ -23,7 +23,11 @@ _In progress._
 _For collaboration & storing files._  
 [**https://drive.google.com/drive/folders/1B0sApYy2-5SRgxYP1IEO-YMMg\_IGOfEe?usp=sharing**](https://drive.google.com/drive/folders/1B0sApYy2-5SRgxYP1IEO-YMMg_IGOfEe?usp=sharing)\*\*\*\*
 
-## Coaches
+## Team
+
+### Coaches
+
+#### Lead
 
 {% hint style="success" %}
 **Coach Pol \[POLO\#6838 on Discord\]  
@@ -67,11 +71,11 @@ _I will make detours to be able to improve OpenStreetMap._
 [**https://www.openstreetmap.org/user/joost%20schouppe/**](https://www.openstreetmap.org/user/joost%20schouppe/)\*\*\*\*
 {% endhint %}
 
-## Team
+### Students
 
-_In progress_
+_In progress._
 
-## Councillors
+### Councillors
 
 {% hint style="info" %}
 **Councillor Pieter VDVN \[pietervdvn\#0638 on Discord\]  

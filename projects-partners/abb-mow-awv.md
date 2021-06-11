@@ -17,17 +17,53 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### Repository
 
-_In progress_
+_In progress._
 
 ## File storage
 
 _For collaboration & storing files._ [**https://drive.google.com/drive/folders/1tOHAE9ACMc2i2MZcimfIaQTnfaGAadeU?usp=sharing**](https://drive.google.com/drive/folders/1tOHAE9ACMc2i2MZcimfIaQTnfaGAadeU?usp=sharing)\*\*\*\*
 
-## Coaches
-
 ## Team
 
-## Councillors
+### Coaches
+
+#### Lead
+
+{% hint style="success" %}
+**Coach Jodi \[Jodi De Loof\#6665 on Discord\]  
+MOW/ABB/AWV, Arvesta**  
+  
+To be completed, please add your data here or add it yourself on the repo 🙏 [https://tally.so/r/3Nl4Gn](https://tally.so/r/3Nl4Gn)
+{% endhint %}
+
+#### Support
+
+{% hint style="success" %}
+**Coach Inti \[Valderas\#1429 on Discord\]  
+Mobile Ratchetticker / Mobiele Rateltikker, MOW/ABB/AWV**  
+UX-Designer at Smooth Sailing  
+  
+**Bio**  
+Being addicted to Minecraft as a kid showed me the value of user experience when I was setting op server and creating communities. With that I started my study in Interaction Design and started eventually started working at Smooth Sailing as a User Experience Designer.  
+  
+__**Skills**  
+__UI Design, UX, Accessibility, Motion  
+Figma, Notion, Adobe create cloud apps  
+[**valderas.be**](http://valderas.be)  
+****[**github.com/IntiValderas**](https://github.com/IntiValderas)  
+****[**smoothsailing.be**](http://smoothsailing.be)  
+  
+**Good to know**  
+_Inti is the name of the Inca sun god_
+{% endhint %}
+
+### Students
+
+_In progress._
+
+### Specific councillors
+
+_In progress._
 
 ## Logo's
 

@@ -17,16 +17,18 @@ _In progress._
 
 ### Repository
 
-_In progress_
+_In progress._
 
 ## File Storage
 
 _For collaboration & storing files._  
 [**https://drive.google.com/drive/folders/14a-VvyCqX173w4iYQ1xM32PEe5ekTqfc?usp=sharing**](https://drive.google.com/drive/folders/14a-VvyCqX173w4iYQ1xM32PEe5ekTqfc?usp=sharing)\*\*\*\*
 
-## Coaches
+## Team
 
-### Project management
+### Coaches
+
+#### Project Management Lead
 
 {% hint style="success" %}
 **Coach Christophe \[Kyng7\#5865 on Discord\]  
@@ -47,7 +49,7 @@ _I listened to the Hamilton recording 2 times a day for 6 months last year and a
 [**https://www.instagram.com/snackytheshiba/**](https://www.instagram.com/snackytheshiba/)\*\*\*\*
 {% endhint %}
 
-### Development
+#### Development Support
 
 {% hint style="success" %}
 **Coach Liesbeth \[LiesbethL\#0679 on Discord\]  
@@ -68,9 +70,9 @@ Used to work with: java, eclipse
 _Big roller coaster fan! The crazier/faster, the better!_
 {% endhint %}
 
-## Team
+## Students
 
-To be confirmed!
+_In progress._
 
 ## Logo
 
