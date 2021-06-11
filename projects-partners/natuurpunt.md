@@ -66,7 +66,7 @@ _I will make detours to be able to improve OpenStreetMap._
 
 _In progress_
 
-## Councillors
+## Specific Councillors
 
 {% hint style="info" %}
 **Councillor Pieter VDVN \[pietervdvn\#0638 on Discord\]  
@@ -85,6 +85,15 @@ C\#, Typescript, HTML, Linux
 **Good to know**  
 _I once created a routeplanner avoiding cobblestone_
 {% endhint %}
+
+{% hint style="info" %}
+**Councillor Ben \[xivk\#0234 on Discord\]  
+Maps, Natuurpunt & Oost-Vlaanderen**  
+  
+To be completed, please add your data here or add it yourself on the repo 🙏 [**https://tally.so/r/3Nl4Gn**](https://tally.so/r/3Nl4Gn)\*\*\*\*
+{% endhint %}
+
+\_\_
 
 ## Logo
 

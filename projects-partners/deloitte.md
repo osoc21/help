@@ -24,9 +24,33 @@ _For collaboration & storing files.
 
 ### Coaches
 
-Lead
+#### Lead
 
-Support
+{% hint style="success" %}
+**Coach Hannes \[Hannes\#1031 on Discord\]  
+Deloitte**  
+Data manager at provincies.incijfers.be  
+  
+**Bio**  
+I like maps.  
+Especially open maps!  
+I like data.  
+Especially open data!  
+I like to dabble in programming.  
+Especially open source!  
+I'm a data analyst and a geospatial nerd, not a programmer  
+  
+__**Skills**  
+__Maps data modeling, data analytics, geospatial statistics  
+HTML, SPSS, QGIS, MapComplete  
+[**https://github.com/joostschouppe/**](https://github.com/joostschouppe/)\*\*\*\*
+
+**Good to know**  
+_I will make detours to be able to improve OpenStreetMap._  
+[**https://www.openstreetmap.org/user/joost%20schouppe/**](https://www.openstreetmap.org/user/joost%20schouppe/)\*\*\*\*
+{% endhint %}
+
+#### Support
 
 ### Students
 
