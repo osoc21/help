@@ -41,3 +41,22 @@ __Storytelling, self-directed learning, career development
 _I cook a great pasta al limone_
 {% endhint %}
 
+{% hint style="success" %}
+**Coach Bert \[jeborsel\#6737 on Discord\]  
+Artevelde Hogeschool & Belnet**  
+Innovation Manager at BOSA  
+  
+**Bio**  
+Limburger, Wereldburger  
+\(English: Limburger, World Burger 🍔\)  
+  
+__**Skills**  
+__Business modelling, Badges, Project Mgmt, Gov workings  
+Badges Badges Badges, some knowledge of R , Vue, Quasar, Firebase, SQL  
+[**https://jeborsel.com/**](https://jeborsel.com/)  
+****[**https://github.com/jeborsel**](https://github.com/jeborsel)  
+  
+**Good to know**  
+_I eat ice faster than you can break it_
+{% endhint %}
+
