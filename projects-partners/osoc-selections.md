@@ -2,6 +2,11 @@
 
 ## Project
 
+{% hint style="warning" %}
+Project template in progress  
+[**https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn**](https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn)\*\*\*\*
+{% endhint %}
+
 ### Resources
 
 _In progress._

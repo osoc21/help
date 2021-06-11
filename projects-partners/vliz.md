@@ -9,7 +9,8 @@ description: >-
 
 ## Project
 
-The description of your project: [https://cloud.openknowledge.be/s/Jae8GRotyow5D2J](https://cloud.openknowledge.be/s/Jae8GRotyow5D2J)
+The description of your project:  
+[https://cloud.openknowledge.be/s/Jae8GRotyow5D2J](https://cloud.openknowledge.be/s/Jae8GRotyow5D2J)
 
 ### Resources
 

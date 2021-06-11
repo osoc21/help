@@ -8,7 +8,7 @@ This project template does not seem to be complete. Please check what informatio
 
 Description of the project in GitHub: [**https://github.com/pietervdvn/MapComplete/issues/29**](https://github.com/pietervdvn/MapComplete/issues/298)\*\*\*\*
 
-Project tempalte: [**https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8**](https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8)\*\*\*\*
+Project template: [**https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8**](https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8)\*\*\*\*
 
 ### Resources
 

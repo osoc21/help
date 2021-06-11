@@ -6,6 +6,13 @@ description: Agentschap Digitaal Vlaanderen –Agency Digital Flanders
 
 ## Project
 
+{% hint style="warning" %}
+This project template does not seem to be complete. Please check what information is missing with your coaches & partners.
+{% endhint %}
+
+Find the description of your project here:  
+[**https://cloud.openknowledge.be/s/czBnjEiA3Dx2eQm**](https://cloud.openknowledge.be/s/czBnjEiA3Dx2eQm)\*\*\*\*
+
 ### Resources
 
 _In progress._
