@@ -5,7 +5,8 @@ description: 'Front-end, back-end, maps, ...'
 # 🦹🏽 Development
 
 {% hint style="success" %}
-**Coach Jonathan \[jbelien\#3989 on Discord\] –** [**osoc Technical Support**](https://github.com/osoc21/technical-support)  
+**Coach Jonathan \[jbelien\#3989 on Discord\]**  
+[**osoc Technical Support**](https://github.com/osoc21/technical-support)  
 ****Technical Support & Board Member at Open Knowledge Belgium.
 
 **Bio**  
@@ -22,7 +23,8 @@ PHP, JavaScript, TypeScript, deployment, server management, databases
 {% endhint %}
 
 {% hint style="success" %}
-**Coach Christophe \[Kyng7\#5865 on Discord\] – VLIZ, Mobile Ratchetticker / Mobiele Rateltikker, Bustle meter / Druktebeter**  
+**Coach Christophe \[Kyng7\#5865 on Discord\]  
+VLIZ, Mobile Ratchetticker / Mobiele Rateltikker, Bustle meter / Druktebeter**  
 Front-End Developer at Emakina  
   
 **Bio**  
@@ -40,7 +42,8 @@ _I listened to the Hamilton recording 2 times a day for 6 months last year and a
 {% endhint %}
 
 {% hint style="success" %}
-**Coach Liesbeth \[LiesbethL\#0679 on Discord\] – VLIZ**  
+**Coach Liesbeth \[LiesbethL\#0679 on Discord\]  
+VLIZ**  
 Senior developer and coach at VLIZ  
   
 **Bio**  

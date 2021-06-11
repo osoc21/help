@@ -40,8 +40,8 @@ _I use discord in white mode during the day \(I swear I’m not a psychopath\)_
 
 {% hint style="success" %}
 **Coach Joost \[joostschouppe\#3203 on Discord\]  
-Natuurpunt & Oost-Vlaanderen  
-D**ata manager at provincies.incijfers.be  
+Natuurpunt & Oost-Vlaanderen**  
+Data manager at provincies.incijfers.be  
   
 **Bio**  
 I like maps.  

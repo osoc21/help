@@ -29,7 +29,8 @@ _For collaboration & storing files._
 ### Project management
 
 {% hint style="success" %}
-**Coach Christophe \[Kyng7\#5865 on Discord\] – VLIZ, Mobile Ratchetticker / Mobiele Rateltikker, Bustle meter / Druktemeter**  
+**Coach Christophe \[Kyng7\#5865 on Discord\]  
+VLIZ, Mobile Ratchetticker / Mobiele Rateltikker, Bustle meter / Druktemeter**  
 Front-End Developer at Emakina  
   
 **Bio**  
@@ -49,7 +50,8 @@ _I listened to the Hamilton recording 2 times a day for 6 months last year and a
 ### Development
 
 {% hint style="success" %}
-**Coach Liesbeth \[LiesbethL\#0679 on Discord\] – VLIZ**  
+**Coach Liesbeth \[LiesbethL\#0679 on Discord\]  
+VLIZ**  
 Senior developer and coach at VLIZ  
   
 **Bio**  
