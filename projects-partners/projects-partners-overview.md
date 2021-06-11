@@ -1,6 +1,6 @@
 # Projects & Partners overview
 
-| Partner name | Project name | Lead coach | Assistant coach |
+| Partner name | Project name | Lead coach | Support coach |
 | :--- | :--- | :--- | :--- |
 | \*\*\*\*[**ABB, MOW & AWV**](abb-mow-awv.md)\*\*\*\* | Open & Safe Roads | Jodi \(FT\) | Inti \(HT\) |
 | \*\*\*\*[**Artevelde Hogeschool & Belnet**](artevelde.md) **** | EduBadges | Emma \(HT\) | Bert |
@@ -8,7 +8,7 @@
 | \*\*\*\*[**ADV**](adv.md)\*\*\*\* | Linked Data Event Streams | Demian \(HT\) | Martin \(HT\) & Xavier \(HT\) |
 | \*\*\*\*[**IDLab**](idlab.md)\*\*\*\* | Reclaim your data | Xavier \(HT\) & Martin \(HT\) | Demian \(HT\) |
 | \*\*\*\*[**Deloitte**](deloitte.md)\*\*\*\* | Future of work | Hannes&Alex  \(HT\) | Michael |
-| \*\*\*\*[**imec**](imec.md)\*\*\*\* | Ratchet ticker \(rateltikker\) | Inti \(HT\) & Christophe \(FT\) | `TBD` Michael \(FT\) |
+| \*\*\*\*[**imec**](imec.md)\*\*\*\* | Ratchet ticker \(rateltikker\) | Inti \(HT\) & Christophe \(FT\) | Michael \(FT\) |
 | \*\*\*\*[**Natuurpunt**](natuurpunt.md)\*\*\*\* | Mapcomplete | Pol \(HT\) + Joost \(HT\) | Hannes&Alex  \(HT\) |
 | \*\*\*\*[**Oost Vlaanderen**](oost-vlaanderen.md)\*\*\*\* | Bike Infrastructure | Pol \(HT\) + Joost \(HT\) | Hannes&Alex  \(HT\) |
 | \*\*\*\*[**osoc sponsored by Fris**](osoc-fris.md)\*\*\*\* | osoc communications team | Astrid \(HT\) | Niels \(FT\) Miet \(HT\) |

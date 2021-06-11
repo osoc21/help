@@ -1,5 +1,5 @@
 ---
-description: 'UI/UX/Graphic design, videography, animation'
+description: 'UI / UX / Graphic design, videography, animation'
 ---
 
 # 👩‍🎤 Visual
@@ -95,5 +95,39 @@ __UI Design Branding, UX design, Graphic design, Conceptual design, Print Figma,
   
 **Good to know**  
 _Ducks are my favourite kind of animals._
+{% endhint %}
+
+{% hint style="success" %}
+**Coach Hannes \[Hannes\#1031 on Discord\]  
+Deloitte, Natuurpunt, Oost-Vlaanderen**  
+Captain at Smooth Sailing   
+  
+**Bio**  
+Designer, coach, father.  
+  
+__**Skills**  
+__UX Design user research, the client game  
+[**smoothsailing.be**](https://www.smoothsailing.be/)\*\*\*\*
+
+**Good to know**  
+_I build my own wood fired pizza oven._
+{% endhint %}
+
+{% hint style="success" %}
+**Coach Alex \[AIex\#8223 on Discord\]  
+Deloitte, Natuurpunt, Oost-Vlaanderen**  
+UX Researcher at Smooth Sailing   
+  
+**Bio**  
+I am a three-time osoc alumnus and I'll be coaching for the first time during osoc 21. I am a UX researcher at Smooth Sailing, a job I got through osoc! Apparently, I am obsessed with usability.  
+  
+__**Skills**  
+__UX Design Front-end, Accessibility, Writing  
+Figma, HTML, CSS, JavaScript, React.Js, R, SQL  
+[**smoothsailing.be**](https://www.smoothsailing.be/)  
+****[**https://github.com/zenigame2**](https://github.com/zenigame2)  
+  
+**Good to know**  
+_I was once the third-best in Dutch spelling in Limburg. I also have dog who I named after a famous dinosaur._
 {% endhint %}
 
