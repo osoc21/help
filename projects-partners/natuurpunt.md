@@ -68,6 +68,26 @@ _In progress_
 
 ## Councillors
 
+
+
+{% hint style="info" %}
+**Councillor Pieter VDVN \[pietervdvn\#0638 on Discord\]  
+Maps, Natuurpunt & Oost-Vlaanderen**  
+Developer at Anyways BV  
+  
+**Bio**  
+After studying informatics at University of Ghent, I rolled into OpenStreetMap. Now I'm working as a developer, creating routeplanners for cyclists based on OpenStreetMap.  
+  
+__**Skills**  
+__Maps, Programming  
+C\#, Typescript, HTML, Linux  
+[**anyways.eu**](http://anyways.eu)  
+[**https://github.com/pietervdvn/**](https://github.com/pietervdvn/)  
+  
+**Good to know**  
+_I once created a routeplanner avoiding cobblestone_
+{% endhint %}
+
 ## Logo
 
 ![Logo Natuurpunt](../.gitbook/assets/natuurpunt-logo.svg)
