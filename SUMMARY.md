@@ -7,6 +7,7 @@
   * [🦄 Communication & Strategy](coaches/communication-and-strategy.md)
   * [🦹🏽 Development](coaches/development.md)
   * [🧙🏼‍♀️Coaching](coaches/coaching.md)
+  * [🐙 Coordination](coaches/coordination.md)
 
 ## Projects & Partners <a id="projects-partners"></a>
 
