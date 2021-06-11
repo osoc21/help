@@ -48,7 +48,7 @@ _I cook a great pasta al limone_
 {% hint style="success" %}
 **Coach Bert \[jeborsel\#6737 on Discord\]  
 Artevelde Hogeschool & Belnet**  
-Innovation Manager at BOSA  
+Innovation at BOSA  
   
 **Bio**  
 Limburger, Wereldburger  
