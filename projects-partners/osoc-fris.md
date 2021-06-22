@@ -1,4 +1,4 @@
-# osoc-FRIS
+# osoc communication by FRIS
 
 ## Project
 
@@ -9,7 +9,10 @@ No project template yet
 
 ### Resources
 
-_In progress._
+Information of 2019 live edition:
+
+* Main overview [https://drive.google.com/drive/folders/1EaetyVr6hJBw2B9j\_O3FsdAH\_s96u9oB?usp=sharing](https://drive.google.com/drive/folders/1EaetyVr6hJBw2B9j_O3FsdAH_s96u9oB?usp=sharing)
+* Videographer/photographer overview [https://docs.google.com/document/d/1cijFnLZLTwKaA7MxaSBbkFPO1M0gPMFS3Wucn14EOIA/edit?usp=sharing](https://docs.google.com/document/d/1cijFnLZLTwKaA7MxaSBbkFPO1M0gPMFS3Wucn14EOIA/edit?usp=sharing)
 
 ### Repository
 
