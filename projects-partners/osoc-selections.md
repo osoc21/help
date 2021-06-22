@@ -9,7 +9,15 @@ Project template in progress
 
 ### Resources
 
-_In progress._
+_In progress_
+
+### Good To Know Up Front
+
+* JavaScript \(pref. TypeScript\)
+* React
+* GraphQL
+* Look into tools like Tally, Typeform, Google forms, ... \(to conduct research and take surveys\)
+* Take a look at your own sign-up experience
 
 ### Repository
 

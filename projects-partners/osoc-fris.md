@@ -13,6 +13,27 @@ Information of 2019 live edition:
 
 * Main overview [https://drive.google.com/drive/folders/1EaetyVr6hJBw2B9j\_O3FsdAH\_s96u9oB?usp=sharing](https://drive.google.com/drive/folders/1EaetyVr6hJBw2B9j_O3FsdAH_s96u9oB?usp=sharing)
 * Videographer/photographer overview [https://docs.google.com/document/d/1cijFnLZLTwKaA7MxaSBbkFPO1M0gPMFS3Wucn14EOIA/edit?usp=sharing](https://docs.google.com/document/d/1cijFnLZLTwKaA7MxaSBbkFPO1M0gPMFS3Wucn14EOIA/edit?usp=sharing)
+* Social media & Site
+  * YouTube
+    * BE: [https://www.youtube.com/channel/UCz05v93vNUmgXCmgtIitrCw](https://www.youtube.com/channel/UCz05v93vNUmgXCmgtIitrCw)
+    * ES: [https://www.youtube.com/channel/UCajxNQfzDysVK\_9nVFvtUzQ](https://www.youtube.com/channel/UCajxNQfzDysVK_9nVFvtUzQ)
+  * Instagram
+    * BE: [https://www.instagram.com/osocbe/](https://www.instagram.com/osocbe/)
+    * ES: [https://www.instagram.com/osocode\_es/](https://www.instagram.com/osocode_es/)
+  * Website
+    * BE: [https://osoc.be/](https://osoc.be/)
+    * ES: [https://t.co/ACsdpcC5O9?amp=1](https://t.co/ACsdpcC5O9?amp=1)
+  * Twitter:
+    * BE: [https://twitter.com/osocode](https://twitter.com/osocode)
+    * ES: [https://twitter.com/oSocode\_es](https://twitter.com/oSocode_es)
+
+### Good To Know Up Front
+
+* Imagine what you would want the remote edition of \#osoc21 to look like
+* Study the previous editions
+  * What was good
+  * What could we do better
+* Take a look at the different audiences we have and on which social media platforms we can find them
 
 ### Repository
 
