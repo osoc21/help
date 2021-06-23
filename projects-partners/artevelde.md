@@ -1,11 +1,8 @@
-# Artevelde Hogeschool & Belnet
+# Artevelde Hogeschool, KdG & Belnet
 
 ## Project
 
-{% hint style="warning" %}
-No project template yet.  
-Link provided: [**https://cloud.openknowledge.be/s/swXAPBkKfB6sGKr**](https://cloud.openknowledge.be/s/swXAPBkKfB6sGKr)\*\*\*\*
-{% endhint %}
+[https://cloud.openknowledge.be/s/swXAPBkKfB6sGKr](https://cloud.openknowledge.be/s/swXAPBkKfB6sGKr)
 
 ### Resources
 

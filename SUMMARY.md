@@ -13,7 +13,7 @@
 
 * [Projects & Partners overview](projects-partners/projects-partners-overview.md)
 * [ABB – MOW – AWV](projects-partners/abb-mow-awv.md)
-* [Artevelde Hogeschool & Belnet](projects-partners/artevelde.md)
+* [Artevelde Hogeschool, KdG & Belnet](projects-partners/artevelde.md)
 * [Arvesta](projects-partners/arvesta.md)
 * [ADV](projects-partners/adv.md)
 * [IDLab](projects-partners/idlab.md)
