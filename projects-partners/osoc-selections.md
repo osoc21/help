@@ -18,10 +18,11 @@ _In progress_
 * GraphQL
 * Look into tools like Tally, Typeform, Google forms, ... \(to conduct research and take surveys\)
 * Take a look at your own sign-up experience
+* Take a look at how Figma and Miro works
 
 ### Repository
 
-_In progress_
+_Soon_
 
 ## File storage
 
@@ -34,24 +35,44 @@ _For collaboration & storing files._
 
 #### Lead
 
+{% hint style="success" %}
+**Coach Miet \[Miet\#7556 on Discord\]  
+osoc selections, osoc comms, osoc lead coach**  
+Digital product designer at miet.be  
+  
+**Bio**  
+🧜‍♀️Digital product designer by day, Open Knowledge 🪑 by night, open summer of code lead 🎈– dancing in between 💃.  
+  
+__**Skills**  
+__UI design, UX design, Graphic Design, Documentation, Scoping sessions, Making tutorials.  
+HTML, CSS, Figma, Git & GitHub & Gitbook. I made a lot of tutorials for osoc and I loved it. I make mediocre videos but they work.  
+[**https://miet.be**](https://miet.be) but it needs an update  
+[**https://github.com/mietcl**](https://github.com/mietcls)[  
+**https://openknowledge.be/**](https://openknowledge.be/)\*\*\*\*
+
+**Good to know**  
+_I usually forget everything I said during the morning show immediately._
+{% endhint %}
+
 #### Support
 
 {% hint style="success" %}
-**Coach Michael \[yungpanda\#3724 on Discord\]  
-Bustle meter / Druktemeter, Mobile Ratchetticker / Mobiele Rateltikker, osoc-selections**  
-Freelance app developer at YungPanda \| Lecturer at Arteveldehogeschool  
+**Coach Michiel \[Miet\#7556 on Discord\]  
+osoc selections, osoc comms, osoc lead coach**  
+Digital product designer at miet.be  
   
 **Bio**  
-I'm a creative app developer and teacher..  
+🧜‍♀️Digital product designer by day, Open Knowledge 🪑 by night, open summer of code lead 🎈– dancing in between 💃.  
   
 __**Skills**  
-__Front-end  
-React, VueJS, NodeJS, Laravel, Design  
-[**https://yungpanda.com**](https://yungpanda.com)  
-****[**https://github.com/yungpanda**](https://github.com/yungpanda)  
-  
+__UI design, UX design, Graphic Design, Documentation, Scoping sessions, Making tutorials.  
+HTML, CSS, Figma, Git & GitHub & Gitbook. I made a lot of tutorials for osoc and I loved it. I make mediocre videos but they work.  
+[**https://miet.be**](https://miet.be) but it needs an update  
+[**https://github.com/mietcl**](https://github.com/mietcls)[  
+**https://openknowledge.be/**](https://openknowledge.be/)\*\*\*\*
+
 **Good to know**  
-_I only missed two oSoc editions since the beginning so my oSoc T-Shirt collection game is strong._
+_I usually forget everything I said during the morning show immediately._
 {% endhint %}
 
 ### Students

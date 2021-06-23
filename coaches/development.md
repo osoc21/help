@@ -258,3 +258,21 @@ __Back-end
 /**
 {% endhint %}
 
+{% hint style="info" %}
+**Councillor Ben \[xivk\#0234 on Discord\]  
+Maps, Natuurpunt & Oost-Vlaanderen**  
+CTO at Anyways  
+  
+**Bio**  
+Ben is crazy about OpenStreetMap and maps in general and is an expert on mapping, routeplanning and mobility applications.  
+  
+**Skills**  
+Maps.  
+Maps, back-end TypeScript, C\#, Java, Python  
+[**https://www.anyways.eu/**](https://www.anyways.eu/)  
+****[**https://github.com/xivk/**](https://github.com/xivk/)  
+  
+**Good to know**  
+_I \*love\* cycling, both sporty and regular!_
+{% endhint %}
+

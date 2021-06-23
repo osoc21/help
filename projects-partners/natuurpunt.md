@@ -89,8 +89,19 @@ _I once created a routeplanner avoiding cobblestone_
 {% hint style="info" %}
 **Councillor Ben \[xivk\#0234 on Discord\]  
 Maps, Natuurpunt & Oost-Vlaanderen**  
+CTO at Anyways  
   
-To be completed, please add your data here or add it yourself on the repo 🙏 [**https://tally.so/r/3Nl4Gn**](https://tally.so/r/3Nl4Gn)\*\*\*\*
+**Bio**  
+Ben is crazy about OpenStreetMap and maps in general and is an expert on mapping, routeplanning and mobility applications.  
+  
+**Skills**  
+Maps.  
+Maps, back-end TypeScript, C\#, Java, Python  
+[**https://www.anyways.eu/**](https://www.anyways.eu/)  
+****[**https://github.com/xivk/**](https://github.com/xivk/)  
+  
+**Good to know**  
+_I \*love\* cycling, both sporty and regular!_
 {% endhint %}
 
 {% hint style="success" %}
@@ -110,7 +121,7 @@ _I build my own wood fired pizza oven._
 {% endhint %}
 
 {% hint style="success" %}
-**oach Alex \[AIex\#8223 on Discord\]  
+**Coach Alex \[AIex\#8223 on Discord\]  
 Deloitte, Natuurpunt, Oost-Vlaanderen**  
 UX Researcher at Smooth Sailing   
   

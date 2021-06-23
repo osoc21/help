@@ -6,10 +6,6 @@
 
 ### Resources
 
-Information of 2019 live edition:
-
-* Main overview [https://drive.google.com/drive/folders/1EaetyVr6hJBw2B9j\_O3FsdAH\_s96u9oB?usp=sharing](https://drive.google.com/drive/folders/1EaetyVr6hJBw2B9j_O3FsdAH_s96u9oB?usp=sharing)
-* Videographer/photographer overview [https://docs.google.com/document/d/1cijFnLZLTwKaA7MxaSBbkFPO1M0gPMFS3Wucn14EOIA/edit?usp=sharing](https://docs.google.com/document/d/1cijFnLZLTwKaA7MxaSBbkFPO1M0gPMFS3Wucn14EOIA/edit?usp=sharing)
 * Social media & Site
   * YouTube
     * BE: [https://www.youtube.com/channel/UCz05v93vNUmgXCmgtIitrCw](https://www.youtube.com/channel/UCz05v93vNUmgXCmgtIitrCw)
@@ -23,6 +19,12 @@ Information of 2019 live edition:
   * Twitter:
     * BE: [https://twitter.com/osocode](https://twitter.com/osocode)
     * ES: [https://twitter.com/oSocode\_es](https://twitter.com/oSocode_es)
+* Code of conduct as a guide to what our communication _sounds_ like: [https://help.osoc.be/global/code-of-conduct   ](https://help.osoc.be/global/code-of-conduct%20
+  )
+* Plans from previous years:
+  * 2019: [https://drive.google.com/drive/folders/1EaetyVr6hJBw2B9j\_O3FsdAH\_s96u9oB?usp=sharing](https://drive.google.com/drive/folders/1EaetyVr6hJBw2B9j_O3FsdAH_s96u9oB?usp=sharing)
+    * Videographer/photographer overview [https://docs.google.com/document/d/1cijFnLZLTwKaA7MxaSBbkFPO1M0gPMFS3Wucn14EOIA/edit?usp=sharing](https://docs.google.com/document/d/1cijFnLZLTwKaA7MxaSBbkFPO1M0gPMFS3Wucn14EOIA/edit?usp=sharing)
+  * 2020: [https://docs.google.com/spreadsheets/d/1NZTqt40hQ9RJ2xgzqHqM-OIKRX6J8ggHJmar8zxUwZM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1NZTqt40hQ9RJ2xgzqHqM-OIKRX6J8ggHJmar8zxUwZM/edit?usp=sharing)
 
 ### Good To Know Up Front
 
@@ -34,7 +36,7 @@ Information of 2019 live edition:
 
 ### Repository
 
-_In progress._
+_Soon_
 
 ## File storage
 
@@ -70,11 +72,24 @@ _I played one of the leading roles in a musical about the 'guldensporenslag' as 
 
 #### Support
 
-
-
-### Students
-
-_In progress._
+{% hint style="success" %}
+**Coach Miet \[Miet\#7556 on Discord\]  
+osoc selections, osoc comms, osoc lead coach**  
+Digital product designer at miet.be  
+  
+**Bio**  
+🧜‍♀️Digital product designer by day, Open Knowledge 🪑 by night, open summer of code lead 🎈– dancing in between 💃.  
+  
+__**Skills**  
+__UI design, UX design, Graphic Design, Documentation, Scoping sessions, Making tutorials.  
+HTML, CSS, Figma, Git & GitHub & Gitbook. I made a lot of tutorials for osoc and I loved it. I make mediocre videos but they work.  
+[**https://miet.be**](https://miet.be) but it needs an update  
+[**https://github.com/mietcls**](https://github.com/mietcls)  
+****[**https://openknowledge.be/**](https://openknowledge.be/)  
+  
+**Good to know**  
+_I usually forget everything I said during the morning show immediately._
+{% endhint %}
 
 ### Specific Councillors
 
@@ -94,6 +109,10 @@ __UI Design Branding, UX design, Graphic design, Conceptual design, Print Figma,
 **Good to know**  
 _Ducks are my favourite kind of animals._
 {% endhint %}
+
+### Students
+
+_In progress._
 
 ## Logo
 

@@ -131,3 +131,22 @@ Figma, HTML, CSS, JavaScript, React.Js, R, SQL
 _I was once the third-best in Dutch spelling in Limburg. I also have dog who I named after a famous dinosaur._
 {% endhint %}
 
+{% hint style="success" %}
+**Coach Miet \[Miet\#7556 on Discord\]  
+osoc selections, osoc comms, osoc lead coach**  
+🧜‍♀️Digital product designer by day, Open Knowledge 🪑 by night, open summer of code lead 🎈– dancing in between 💃.  
+  
+**Bio**  
+🧜‍♀️Digital product designer by day, Open Knowledge 🪑 by night, open summer of code lead 🎈– dancing in between 💃.  
+  
+__**Skills**  
+__UI design, UX design, Graphic Design, Documentation, Scoping sessions, Making tutorials.  
+HTML, CSS, Figma, Git & GitHub & Gitbook. I made a lot of tutorials for osoc and I loved it. I make mediocre videos but they work.  
+[**https://miet.be**](https://miet.be) but it needs an update  
+[**https://github.com/mietcl**](https://github.com/mietcls)[  
+__**https://openknowledge.be/**](https://openknowledge.be/)  
+****  
+**Good to know**  
+_I usually forget everything I said during the morning show immediately._
+{% endhint %}
+
