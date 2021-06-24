@@ -6,7 +6,12 @@
 
 ### Resources
 
-_In progress._
+To familiarize yourself with Open Badges, we recommend you read the following website
+
+* Open Badges were first created by the Mozilla Foundation, [on this page](https://support.mozilla.org/en-US/kb/why-open-badges) they explain why. 
+* When the Mozilla Foundation created Open Badges, they also wrote [this whitepaper. ](https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf)
+* In the Netherlands, SURF used the concept of Open Badges and created Edubadges. Read about their experience and findings [here. ](https://www.surf.nl/whitepaper-open-badges-en-microcredentialing)
+* Your coach Emma has experimented with Open Badges at Dutch high schools, read about her experience and vision on Open Badges [here.](https://www.emmastoks.nl/post/de-grote-kans-van-open-badges) 
 
 ### Repository
 
