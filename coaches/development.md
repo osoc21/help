@@ -147,6 +147,23 @@ Python, JavaScript, React, Ruby, Django, Rails, Unit Test, Web Development
 _I'm 43_
 {% endhint %}
 
+{% hint style="success" %}
+**Coach Michiel \[michiel\#4959 on Discord\]  
+osoc selections, deloitte**  
+Independent Web Developer  
+  
+**Bio**  
+I'm a Gent-based developer with much love for the web and open source! I participated in osoc three times as a student, and 2 times as a coach. Always open for a chat about the latest hip framework, your osoc project, your studies, and more. Send me pictures of your pets.  
+  
+__**Skills**  
+__Front-end, Back-end, DevOps-y stuff  
+I do mostly JavaScript and TypeScript, but have been known to dabble in Rust & Ruby. On the front-end I like React & Svelte. Talk to me about your REST & GraphQL API designs, event-driven architectures and continuous integration/delivery!  
+[**http://github.com/michielleyman**](http://github.com/michielleyman)\*\*\*\*
+
+**Good to know**  
+_I like pineapple on pizza, toilet paper rolls over instead of under, spaces over tabs, vim over emacs and dogs over cats. Or was it the other way around?_
+{% endhint %}
+
 ## Councillors
 
 {% hint style="info" %}

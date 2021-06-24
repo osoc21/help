@@ -85,7 +85,7 @@ __UI design, UX design, Graphic Design, Documentation, Scoping sessions, Making 
 HTML, CSS, Figma, Git & GitHub & Gitbook. I made a lot of tutorials for osoc and I loved it. I make mediocre videos but they work.  
 [**https://miet.be**](https://miet.be) but it needs an update  
 [**https://github.com/mietcls**](https://github.com/mietcls)  
-****[**https://openknowledge.be/**](https://openknowledge.be/)  
+****[**https://openknowledge.be**](https://openknowledge.be/)  
   
 **Good to know**  
 _I usually forget everything I said during the morning show immediately._
