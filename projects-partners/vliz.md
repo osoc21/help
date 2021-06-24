@@ -14,7 +14,7 @@ The description of your project:
 
 ### Resources
 
-\*\*\*\*[**https://docs.google.com/document/d/1NQ4NiHejRFfPfYkCNIRHR7bpRaPWjYZnQiS2Q1-tIQU/edit**](https://docs.google.com/document/d/1NQ4NiHejRFfPfYkCNIRHR7bpRaPWjYZnQiS2Q1-tIQU/edit)\*\*\*\*
+\*\*\*\*[**https://docs.google.com/document/d/1NQ4NiHejRFfPfYkCNIRHR7bpRaPWjYZnQiS2Q1-tIQU/edit?usp=sharing**](https://docs.google.com/document/d/1NQ4NiHejRFfPfYkCNIRHR7bpRaPWjYZnQiS2Q1-tIQU/edit?usp=sharing)\*\*\*\*
 
 ### Repository
 
