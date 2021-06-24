@@ -10,15 +10,15 @@ description: >-
 ## Project
 
 The description of your project:  
-[https://cloud.openknowledge.be/s/Jae8GRotyow5D2J](https://cloud.openknowledge.be/s/Jae8GRotyow5D2J)
+[**https://cloud.openknowledge.be/s/Jae8GRotyow5D2J**](https://cloud.openknowledge.be/s/Jae8GRotyow5D2J)\*\*\*\*
 
 ### Resources
 
-_In progress._
+\*\*\*\*[**https://docs.google.com/document/d/1NQ4NiHejRFfPfYkCNIRHR7bpRaPWjYZnQiS2Q1-tIQU/edit**](https://docs.google.com/document/d/1NQ4NiHejRFfPfYkCNIRHR7bpRaPWjYZnQiS2Q1-tIQU/edit)\*\*\*\*
 
 ### Repository
 
-_In progress._
+_Soon_
 
 ## File Storage
 
