@@ -1,4 +1,4 @@
-# Consortium: Open Recognition, Arteveldehogeschool, HoGent, KodeKlub, Belnet, KdG
+# Consortium: Open Recognition Alliance, Artevelde Hogeschool, HoGent, KodeKlub, Belnet, KdG
 
 ## Project
 
@@ -71,6 +71,8 @@ _I eat ice faster than you can break it_
 _In progress._
 
 ## Logo's
+
+![Open Recognition Alliance](../.gitbook/assets/openrecognitionalliance-logo.svg)
 
 ![Logo Artevelde Hogeschool](../.gitbook/assets/artevelde-logo.svg)
 
