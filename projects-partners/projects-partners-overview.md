@@ -3,7 +3,7 @@
 | Partner name | Project name | Lead coach | Support coach |
 | :--- | :--- | :--- | :--- |
 | \*\*\*\*[**ABB, MOW & AWV**](abb-mow-awv.md)\*\*\*\* | Open & Safe Roads | Jodi \(FT\) | Inti \(HT\) |
-| \*\*\*\*[**Artevelde Hogeschool & Belnet**](artevelde.md) **** | EduBadges | Emma \(HT\) | Bert |
+| [**Consortium: Open Recognition, Arteveldehogeschool, HoGent, KodeKlub, Belnet, KdG**](artevelde.md)\*\*\*\* | EduBadges | Emma \(HT\) | Bert |
 | \*\*\*\*[**Arvesta**](arvesta.md)\*\*\*\* | Hackathon | Niels \(FT\) | Jodi \(FT\) |
 | \*\*\*\*[**ADV**](adv.md)\*\*\*\* | Linked Data Event Streams | Demian \(HT\) | Martin \(HT\) & Xavier \(HT\) |
 | \*\*\*\*[**IDLab**](idlab.md)\*\*\*\* | Reclaim your data | Xavier \(HT\) & Martin \(HT\) | Demian \(HT\) |

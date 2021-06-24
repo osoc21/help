@@ -1,4 +1,4 @@
-# Consortium: Open Recognition, Arteveldehogeschool, HoGent , KodeKlub, Belnet, KdG
+# Consortium: Open Recognition, Arteveldehogeschool, HoGent, KodeKlub, Belnet, KdG
 
 ## Project
 
