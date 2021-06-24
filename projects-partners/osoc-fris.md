@@ -28,11 +28,12 @@
 
 ### Good To Know Up Front
 
-* Imagine what you would want the remote edition of \#osoc21 to look like
 * Study the previous editions
   * What was good
   * What could we do better
+* Imagine what you would like \#osoc21 to look / feel like 
 * Take a look at the different audiences we have and on which social media platforms we can find them
+* Study our branding
 
 ### Repository
 
