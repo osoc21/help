@@ -1,4 +1,4 @@
-# Artevelde Hogeschool, KdG & Belnet
+# Consortium: Open Recognition, Arteveldehogeschool, HoGent , KodeKlub, Belnet, KdG
 
 ## Project
 
@@ -81,8 +81,6 @@ _In progress._
 ![Logo Karel de Grote Hogeschool](../.gitbook/assets/kdg-logo.svg)
 
 ![Logo Kodeklub](../.gitbook/assets/kodeklub-logo.svg)
-
-![Logo Deloitte](../.gitbook/assets/deloitte-logo.svg)
 
 
 
