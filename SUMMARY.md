@@ -1,14 +1,14 @@
 # Table of contents
 
 * [\#osoc21](README.md)
-* [Collab & Docs](collaboration-and-documentation.md)
 * [Coaches, Student Coaches & Councillors](coaches/README.md)
   * [👩‍🎤 Visual](coaches/visual.md)
   * [🦄 Communication & Strategy](coaches/communication-and-strategy.md)
   * [🦹🏽 Development](coaches/development.md)
   * [🧙🏼‍♀️Coaching](coaches/coaching.md)
   * [🐙 Coordination](coaches/coordination.md)
-* [Pitching sequence](pitching-sequence.md)
+* [Good to know](collaboration-and-documentation/README.md)
+  * [Pitching sequence](collaboration-and-documentation/pitching-sequence.md)
 
 ## Projects & Partners <a id="projects-partners"></a>
 
