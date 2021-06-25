@@ -7,6 +7,11 @@
   * [🦹🏽 Development](coaches/development.md)
   * [🧙🏼‍♀️Coaching](coaches/coaching.md)
   * [🐙 Coordination](coaches/coordination.md)
+* [Calendar for \#osoc21 Belgium](calendar-for-osoc21-belgium/README.md)
+  * [Week 1: Explore](calendar-for-osoc21-belgium/week-1-explore.md)
+  * [Week 2: Build & Test](calendar-for-osoc21-belgium/week-2-build-and-test.md)
+  * [Week 3: Build & Test](calendar-for-osoc21-belgium/week-3-build-and-test.md)
+  * [Week 4: Document & Deliver](calendar-for-osoc21-belgium/week-4-document-and-deliver.md)
 * [Pitching Sequences](pitching-sequence.md)
 * [Partner meetings](collaboration-and-documentation.md)
 
