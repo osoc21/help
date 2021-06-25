@@ -2,10 +2,6 @@
 
 ## Project
 
-{% hint style="info" %}
-This project template needs to be aligned with the latest scoping session.
-{% endhint %}
-
 Find the description of your project here: [**https://cloud.openknowledge.be/s/XWynK6GfcqkiXAe**](https://cloud.openknowledge.be/s/XWynK6GfcqkiXAe)\*\*\*\*
 
 ### Resources

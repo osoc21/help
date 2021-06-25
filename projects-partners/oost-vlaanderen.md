@@ -2,9 +2,7 @@
 
 ## Project
 
-Description of the project in GitHub: 
-
-Project template: [**https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8**](https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8)\*\*\*\*
+Find the description of your project here: [**https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8**](https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8)\*\*\*\*
 
 ### Resources
 

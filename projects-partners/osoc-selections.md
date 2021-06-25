@@ -2,10 +2,7 @@
 
 ## Project
 
-{% hint style="warning" %}
-Project template in progress  
-[**https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn**](https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn)\*\*\*\*
-{% endhint %}
+Find the description of your project here: [**https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn**](https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn)\*\*\*\*
 
 ### Resources
 

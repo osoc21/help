@@ -2,7 +2,7 @@
 
 ## Project
 
-[https://cloud.openknowledge.be/s/YRWtc4brdYDd7L6](https://cloud.openknowledge.be/s/YRWtc4brdYDd7L6)
+Find the description of your project here: [**https://cloud.openknowledge.be/s/YRWtc4brdYDd7L6**](https://cloud.openknowledge.be/s/YRWtc4brdYDd7L6)\*\*\*\*
 
 ### Resources
 
