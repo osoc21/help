@@ -1,6 +1,4 @@
-# Good to know
-
-## Meetings
+# Partner meetings
 
 {% hint style="info" %}
 In progress

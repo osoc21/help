@@ -9,6 +9,10 @@ description: >-
 
 ![You made it, we&apos;re so happy you are here!](.gitbook/assets/screenshot-2020-06-18-at-14.41.43.png)
 
+{% hint style="success" %}
+We want this to be the best summer job _ever_ for you. And we'll do our utter best to make that happen. Visit our [**code of conduct**](https://help.osoc.be/global/code-of-conduct) to see what's at our core to make this happen.
+{% endhint %}
+
 ## What project will I be building this year?
 
 Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) ****page and discover what you and your team will do by clicking the partner name. Get to know them on [**Discord**](./#join-us-on-discord-and-get-to-know-everyone)!

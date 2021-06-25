@@ -7,8 +7,8 @@
   * [🦹🏽 Development](coaches/development.md)
   * [🧙🏼‍♀️Coaching](coaches/coaching.md)
   * [🐙 Coordination](coaches/coordination.md)
-* [Good to know](collaboration-and-documentation/README.md)
-  * [Pitching sequence](collaboration-and-documentation/pitching-sequence.md)
+* [Pitching Sequences](pitching-sequence.md)
+* [Partner meetings](collaboration-and-documentation.md)
 
 ## Projects & Partners <a id="projects-partners"></a>
 

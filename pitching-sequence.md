@@ -1,4 +1,4 @@
-# Pitching sequence
+# Pitching Sequences
 
 {% hint style="danger" %}
 Under construction
