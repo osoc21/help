@@ -14,7 +14,7 @@ _In progress._
 
 ### Repository
 
-_In progress._
+_Soon_
 
 ## File storage
 
@@ -57,7 +57,7 @@ MOW/ABB/AWV, Arvesta**
 
 ### Students
 
-_In progress._
+Stivi, Bram, Laura
 
 ## Logo
 

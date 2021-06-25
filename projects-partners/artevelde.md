@@ -68,7 +68,7 @@ _I eat ice faster than you can break it_
 
 ### Students
 
-_In progress._
+Lies, Marie
 
 ## Logo's
 

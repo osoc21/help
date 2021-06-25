@@ -98,7 +98,7 @@ _Talk to me about martial arts, music, tea or random facts from Wikipedia!_
 
 ### Students
 
-_In progress._
+Clément, Arno T, Wout, Ryan, Carlos
 
 ### Specific councillors
 

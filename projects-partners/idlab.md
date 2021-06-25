@@ -85,7 +85,7 @@ _Random fact: I love pizza Hawaii_ 🍕
 
 ### Students
 
-_In progress._
+Abraham, Cyrille, Romain, Lin de
 
 ### Councillors
 

@@ -62,9 +62,9 @@ _I will make detours to be able to improve OpenStreetMap._
 [**https://www.openstreetmap.org/user/joost%20schouppe/**](https://www.openstreetmap.org/user/joost%20schouppe/)\*\*\*\*
 {% endhint %}
 
-## Team
+## Students
 
-_In progress_
+Liam, Karelle, Hannah, Ward
 
 ## Specific Councillors
 

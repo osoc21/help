@@ -69,7 +69,7 @@ _I will make detours to be able to improve OpenStreetMap._
 
 ### Students
 
-_In progress._
+Arno DC, Charlotte, Robin
 
 ### Councillors
 

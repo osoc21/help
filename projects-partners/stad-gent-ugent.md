@@ -60,6 +60,8 @@ _I listened to the Hamilton recording 2 times a day for 6 months last year and a
 
 ### Students
 
+Eben Ezeer, Eléna, Kaj, Loeka
+
 ## Logo
 
 ![Logo UGent](../.gitbook/assets/ugent-logo.svg)

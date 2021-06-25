@@ -82,7 +82,7 @@ _I only missed two oSoc editions since the beginning so my oSoc T-Shirt collecti
 
 ### Students
 
-_In progress._
+Anastasia, Camille, Arthur, Erinn, Jente
 
 ## Logo
 

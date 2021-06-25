@@ -1,4 +1,4 @@
-# osoc communication by FRIS
+# osoc comms by FRIS
 
 ## Project
 
@@ -113,7 +113,7 @@ _Ducks are my favourite kind of animals._
 
 ### Students
 
-_In progress._
+Britt, Yaiza
 
 ## Logo
 

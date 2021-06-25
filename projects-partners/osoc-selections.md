@@ -75,6 +75,8 @@ _I like pineapple on pizza, toilet paper rolls over instead of under, spaces ove
 
 ### Students
 
+Tischa, Jeroen, Merline
+
 ## Logo
 
 ![Logo osoc](../.gitbook/assets/osoc-logo%20%282%29.svg)
