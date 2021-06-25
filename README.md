@@ -10,20 +10,26 @@ description: >-
 ![You made it, we&apos;re so happy you are here!](.gitbook/assets/screenshot-2020-06-18-at-14.41.43.png)
 
 {% hint style="success" %}
-We want this to be the best summer job _ever_ for you. And we'll do our utter best to make that happen. Visit our [**code of conduct**](https://help.osoc.be/global/code-of-conduct) to see what's at our core to make this happen – and what [**best practices**](https://help.osoc.be/global/way-of-work) we have.
+We want this to be the best summer job _ever_ for you. And we'll do our utter best to make that happen. Visit our [**code of conduct**](https://help.osoc.be/global/code-of-conduct) to see what's at our core to make this happen – and what [**best practices**](https://help.osoc.be/global/way-of-work) we have, also for [**remote editions**](https://help.osoc.be/global/way-of-work/working-together-in-a-remote-setting).
 {% endhint %}
 
-## What project will I be building this year?
+## "What project will I be building this year?"
 
 Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) ****page and discover what you and your team will do by clicking the partner name. Get to know them on [**Discord**](./#join-us-on-discord-and-get-to-know-everyone)!
 
 ## Join us on Discord, and get to know everyone ❤
 
-For this remote edition, we hang out in Discord. Come say hi, we'd love to welcome you!
+For this second fully remote edition, we hang out in Discord. Come say hi, we'd love to welcome you!
+
+After you’ve created an account, please carefully read Miet's how-to-get-started message in the `#welcome` channel. All of you will be tagged in the specific Discord channel for your project.
 
 {% embed url="https://discord.gg/qHcf2mvXnW" %}
 
-All of you will be tagged in the specific Discord channel for your project. If you have some time in the coming days and you would like to prepare something, do ask your coach in your Discord project channel for recommendations.
+## **Invite Your Friends to the Demo Day**
+
+**Tell your friends and family to block their agenda on Thursday 29 July \(13:00 to 16:00\).**
+
+On the last day of \#osoc21, we’re going to present our projects to the general public! Our Demo Day will take place via live streaming and will be open to everyone.
 
 ## Got Lost, have Questions?
 
