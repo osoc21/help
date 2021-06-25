@@ -21,7 +21,7 @@ Find your name on the [**Projects & Partners overview**](projects-partners/proje
 
 For this remote edition, we hang out in Discord. Come say hi, we'd love to welcome you!
 
-{% embed url="https://discord.gg/HyuMWWsm" %}
+{% embed url="https://discord.gg/qHcf2mvXnW" %}
 
 ## Got Lost, have Questions?
 
