@@ -2,20 +2,12 @@
 
 ## Project
 
-{% hint style="warning" %}
-This project template does not seem to be complete. Please check what information is missing.
-{% endhint %}
-
 Find the description of your project here:  
 [**https://cloud.openknowledge.be/s/aBCwdf5p5zpdt6c**](https://cloud.openknowledge.be/s/aBCwdf5p5zpdt6c)\*\*\*\*
 
-### Resources
-
-_In progress._
-
 ### Repository
 
-_In progress_
+_Soon_
 
 ## File storage
 

@@ -2,21 +2,17 @@
 
 ## Project
 
-{% hint style="warning" %}
-This project template does not seem to be complete. Please check what information is missing.
-{% endhint %}
-
-Description of the project in GitHub: [**https://github.com/pietervdvn/MapComplete/issues/29**](https://github.com/pietervdvn/MapComplete/issues/298)\*\*\*\*
+Description of the project in GitHub: 
 
 Project template: [**https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8**](https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8)\*\*\*\*
 
 ### Resources
 
-_In progress._
+[**https://github.com/pietervdvn/MapComplete/issues/29**](https://github.com/pietervdvn/MapComplete/issues/298)\*\*\*\*
 
 ### Repository
 
-_In progress._
+_Soon_
 
 ## File storage
 
