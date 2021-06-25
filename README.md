@@ -27,7 +27,7 @@ For this remote edition, we hang out in Discord. Come say hi, we'd love to welco
   * For specific design questions, contact Niels on Discord **`Niels#0264`**
   * For technical support, read this [**technical support overview**](https://github.com/osoc21/technical-support) by Jonathan! 
 * **Coaching questions**, go to the **`#coaches-councillors`** channel on Discord or contact Miet on Discord **`Miet#7556`**. 
-* **Organisational questions**, contact Astrid on Discord **`Astrid#2809`**, or mail [**info@osoc.be**](mailto:info@osoc.be)\*\*\*\*
+* **Organisational and administrative questions**, contact Astrid on Discord **`Astrid#2809`**, or mail [**info@osoc.be**](mailto:info@osoc.be)\*\*\*\*
 
 {% hint style="info" %}
 🚧 This wiki is _always_ under construction — if something is missing or wrong, please contact us at info@osoc.be; and we'll make sure to fix it. 🚧
