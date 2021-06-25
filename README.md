@@ -11,7 +11,7 @@ description: >-
 
 ## What project will I be building this year?
 
-Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) ****page and discover what you and your team will do. Get to know them on [**Discord**](./#join-us-on-discord-and-get-to-know-everyone)!
+Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) ****page and discover what you and your team will do by clicking the partner name. Get to know them on [**Discord**](./#join-us-on-discord-and-get-to-know-everyone)!
 
 ## Join us on Discord, and get to know everyone ❤
 
