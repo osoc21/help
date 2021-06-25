@@ -7,7 +7,8 @@ _We do not work on Fridays, weekends or holidays!_
 * 1 Month: 5 July — 29 July
 * 15 Days: Monday — **Thursday**
   * _21 July is a national holiday_
-* Hours: 9AM — 5PM
+* Hours: 8 hours per day
+  * We start with our morning presentations at 09:00; organise together with your team how you'll make the calendar work!
 
 Add our calendar: [**https://calendar.google.com/calendar/u/1?cid=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t**](https://calendar.google.com/calendar/u/1?cid=bWlldGNsYWVzLmNvbV9oMXJzMzFhNzk4MDlyNzQyZTVscGRwZWdiZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)\*\*\*\*
 

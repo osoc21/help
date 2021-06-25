@@ -17,6 +17,8 @@ We want this to be the best summer job _ever_ for you. And we'll do our utter be
 
 Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) ****page and discover what you and your team will do by clicking the partner name. Get to know them on [**Discord**](./#join-us-on-discord-and-get-to-know-everyone)!
 
+Can't wait, and want to prep in the meantime? Study the resources!
+
 ## Join us on Discord, and get to know everyone ❤
 
 For this second fully remote edition, we hang out in Discord. Come say hi, we'd love to welcome you!
@@ -24,6 +26,14 @@ For this second fully remote edition, we hang out in Discord. Come say hi, we'd 
 After you’ve created an account, please carefully read Miet's how-to-get-started message in the `#welcome` channel. All of you will be tagged in the specific Discord channel for your project.
 
 {% embed url="https://discord.gg/qHcf2mvXnW" %}
+
+## **Be there on Monday 09:00** _**sharp**_
+
+We'd like to ask you to be online \(on Discord\) between 08:30 and 09:00 on Monday 5 July. At 9:00 _sharp_ we’ll start with our opening presentation.
+
+The first day is mainly an introduction day to get to know your teammates, coach, project and other teams. Many of you are new to open summer of code and that makes it super exciting.
+
+Look at the [**calendar**](calendar-for-osoc21-belgium/) to discover what we'll be doing in the next days.
 
 ## **Invite Your Friends to the Demo Day**
 

@@ -16,14 +16,14 @@ Welcome to open summer of code! You'll get an introduction about what osoc is, w
 
 * Icebreaker; get to know each other!
 * Share your skills, talents hobbies, …
-* Tell us what you can help other people with
+* Tell us what you can help other people with!
 
 ### What are we going to do?
 
 * Study the briefing
   * You can find the briefing in the folder of your team – which will be shared by your coach at the start of the week. Bookmark it!
 * Define goal
-* Summarise project \(± 200 characters\) and send it over by adding it to [project descriptions](https://docs.google.com/spreadsheets/d/1DeD9CD7lxpku2ijj-MCJNNNCVGIMpjc3hRFm3IBignQ/edit?usp=sharing)
+* Summarise project \(± 200 characters\) and send it over.
 * Compose list of questions for partner/client
   * You can compose it together in the folder of your team under _meeting minutes_
 
@@ -33,16 +33,13 @@ Welcome to open summer of code! You'll get an introduction about what osoc is, w
 
 Prepare to introduce yourselves to the other teams!
 
-* Think of a **team name** that reflects your members and project
-  * Add it to the[ project descriptions](https://docs.google.com/spreadsheets/d/1DeD9CD7lxpku2ijj-MCJNNNCVGIMpjc3hRFm3IBignQ/edit?usp=sharing)
+* Think of a **team name** that reflects your members and project and send it over.
 * Create a **crest** together \[[Find out how](https://help.osoc.be/global/how-to-create-crests)\]
   * Share the crest in the _crests_ folder, name it after your project and team name, like so: _team-name-crest_
 * Send over **a picture** of each team member \(take a selfie with students and coaches\)
-  * Add it here in the team picture folder. Ask your coach to find that folder.
+  * Add it in the team picture folder. Ask your coach to find that folder.
     * Create a team folder for your team _team-name_
-    * Name each picture _team-name-member-name-picture_
-
-      , and if it's a group pic _team-name-team-picture_
+    * Name each picture _team-name-member-name-picture_, and if it's a group pic _team-name-team-picture_
   * Make sure you wear your osoc shirt, and if you don't have it \(yet\), grab a colourful one 🌈
 
 **Create short pitch \(to introduce the team and project, no slides needed\).** You can base yourself on the project description you made. Decide who pitches.
@@ -59,7 +56,13 @@ Enjoy watching the other teams!
 
 ## Day 2
 
+_Coming soon_
+
 ## Day 3
 
+_Coming soon_
+
 ## Day 4
+
+_Coming soon_
 
