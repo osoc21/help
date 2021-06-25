@@ -16,7 +16,7 @@ description: Agentschap Digitaal Vlaanderen –Agency Digital Flanders
 
 ### Resources
 
-_In progress._
+_See descriptions_
 
 ### Repository
 

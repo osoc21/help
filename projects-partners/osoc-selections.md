@@ -6,9 +6,7 @@ Find the description of your project here: [**https://cloud.openknowledge.be/s/g
 
 ### Resources
 
-_In progress_
-
-### Good To Know Up Front
+#### Good To Know Up Front
 
 * JavaScript \(pref. TypeScript\)
 * React

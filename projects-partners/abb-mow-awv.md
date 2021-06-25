@@ -17,7 +17,7 @@ _Your partner will give you a nice introduction as well on the first partner mee
 
 ### Repository
 
-_In progress._
+_Soon_
 
 ## File storage
 
