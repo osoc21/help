@@ -9,16 +9,15 @@ description: >-
 
 ![You made it, we&apos;re so happy you are here!](.gitbook/assets/screenshot-2020-06-18-at-14.41.43.png)
 
+## What project will I be building this year?
+
+Find your name on the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md) ****page and discover what you and your team will do. Get to know them on [**Discord**](./#join-us-on-discord-and-get-to-know-everyone)!
+
 ## Join us on Discord, and get to know everyone ❤
 
 For this remote edition, we hang out in Discord. Come say hi, we'd love to welcome you!
 
 {% embed url="https://discord.gg/HyuMWWsm" %}
-
-## Use this Wiki to navigate \#osoc21
-
-* Get an overview of all the [**Projects & Partners overview**](projects-partners/projects-partners-overview.md).
-* Find out which tools we use to [**Collaborate & Document**](collaboration-and-documentation.md).
 
 ## Got Lost, have Questions?
 
