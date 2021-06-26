@@ -1,9 +1,12 @@
+---
+description: Safe Open Roads
+---
+
 # ABB – MOW – AWV
 
 ## Project
 
-Find the description of your project here:  
-[**https://cloud.openknowledge.be/s/inBKkGwAqiNe5Wa**](https://cloud.openknowledge.be/s/inBKkGwAqiNe5Wa)\*\*\*\*
+{% embed url="https://cloud.openknowledge.be/s/inBKkGwAqiNe5Wa" %}
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
@@ -18,6 +21,10 @@ _Your partner will give you a nice introduction as well on the first partner mee
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#safe-open-roads
 
 ## File storage
 

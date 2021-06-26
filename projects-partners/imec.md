@@ -2,16 +2,15 @@
 
 ## Project
 
-Find the description of your project here:  
-****[**https://cloud.openknowledge.be/s/9iHXgE897TzKj84**](https://cloud.openknowledge.be/s/9iHXgE897TzKj84)\*\*\*\*
-
-### Resources
-
-_In progress._
+{% embed url="https://cloud.openknowledge.be/s/9iHXgE897TzKj84" %}
 
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#imec-ratchetticker
 
 ## File storage
 

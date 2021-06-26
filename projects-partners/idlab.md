@@ -2,16 +2,15 @@
 
 ## Project
 
-Find the description of your project here:  
-[**https://cloud.openknowledge.be/s/92MLgQzojtH7Rii**](https://cloud.openknowledge.be/s/92MLgQzojtH7Rii)\*\*\*\*
-
-### Resources
-
-_In progress._
+{% embed url="https://cloud.openknowledge.be/s/92MLgQzojtH7Rii" %}
 
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#idlab-reclaim
 
 ## File storage
 

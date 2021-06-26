@@ -1,8 +1,12 @@
+---
+description: Edubadges Belgium
+---
+
 # Consortium: Open Recognition Alliance, Artevelde Hogeschool, HoGent, KodeKlub, Belnet, KdG
 
 ## Project
 
-Find the description of your project here: [**https://cloud.openknowledge.be/s/swXAPBkKfB6sGKr**](https://cloud.openknowledge.be/s/swXAPBkKfB6sGKr)\*\*\*\*
+{% embed url="https://cloud.openknowledge.be/s/swXAPBkKfB6sGKr" %}
 
 ### Resources
 
@@ -16,6 +20,10 @@ To familiarize yourself with Open Badges, we recommend you read the following:
 ### Repository
 
 _In progress._
+
+### **Discord Channel**
+
+\#edubadges-belgium
 
 ## File storage
 

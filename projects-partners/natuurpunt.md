@@ -2,16 +2,15 @@
 
 ## Project
 
-Find the description of your project here:  
-[**https://cloud.openknowledge.be/s/d2pTR9zQknnA4AF**](https://cloud.openknowledge.be/s/d2pTR9zQknnA4AF)\*\*\*\*
-
-### Resources
-
-_In progress._
+{% embed url="https://cloud.openknowledge.be/s/d2pTR9zQknnA4AF" %}
 
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#natuurpunt-mapcomplete
 
 ## File storage
 

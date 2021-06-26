@@ -2,7 +2,7 @@
 
 ## Project
 
-Find the description of your project here: [**https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn**](https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn)\*\*\*\*
+{% embed url="https://cloud.openknowledge.be/s/gAZMtNzpeoNTBkn" %}
 
 ### Resources
 
@@ -18,6 +18,10 @@ Find the description of your project here: [**https://cloud.openknowledge.be/s/g
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#osoc-selections
 
 ## File storage
 

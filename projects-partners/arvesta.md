@@ -2,7 +2,7 @@
 
 ## Project
 
-Find the description of your project here: [**https://cloud.openknowledge.be/s/XWynK6GfcqkiXAe**](https://cloud.openknowledge.be/s/XWynK6GfcqkiXAe)\*\*\*\*
+{% embed url="https://cloud.openknowledge.be/s/XWynK6GfcqkiXAe" %}
 
 ### Resources
 
@@ -11,6 +11,10 @@ _In progress._
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#arvesta-hackathon
 
 ## File storage
 

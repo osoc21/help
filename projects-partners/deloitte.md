@@ -2,8 +2,7 @@
 
 ## Project
 
-Find the description of your project here:   
-[https://cloud.openknowledge.be/s/GA9wbmxXL9yaZZj](https://cloud.openknowledge.be/s/GA9wbmxXL9yaZZj)
+{% embed url="https://cloud.openknowledge.be/s/GA9wbmxXL9yaZZj" %}
 
 ### Resources
 
@@ -12,6 +11,10 @@ _In progress._
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#deloitte-futureofwork
 
 ## File storage
 

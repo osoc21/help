@@ -27,7 +27,7 @@
 * [Natuurpunt](projects-partners/natuurpunt.md)
 * [Oost-Vlaanderen](projects-partners/oost-vlaanderen.md)
 * [Deloitte](projects-partners/deloitte.md)
-* [osoc comms by FRIS](projects-partners/osoc-fris.md)
+* [osoc comms sponsored by FRIS](projects-partners/osoc-fris.md)
 * [osoc-selections](projects-partners/osoc-selections.md)
 * [Stad Gent – UGent](projects-partners/stad-gent-ugent.md)
 * [VLIZ](projects-partners/vliz.md)

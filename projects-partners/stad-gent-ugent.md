@@ -2,12 +2,15 @@
 
 ## Project
 
-Find the description of your project here:  
-[**https://cloud.openknowledge.be/s/aBCwdf5p5zpdt6c**](https://cloud.openknowledge.be/s/aBCwdf5p5zpdt6c)\*\*\*\*
+{% embed url="https://cloud.openknowledge.be/s/aBCwdf5p5zpdt6c" %}
 
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#gent-bustlemeter
 
 ## File storage
 

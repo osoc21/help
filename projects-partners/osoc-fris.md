@@ -1,8 +1,8 @@
-# osoc comms by FRIS
+# osoc comms sponsored by FRIS
 
 ## Project
 
-Find the description of your project here: [**https://cloud.openknowledge.be/s/YRWtc4brdYDd7L6**](https://cloud.openknowledge.be/s/YRWtc4brdYDd7L6)\*\*\*\*
+{% embed url="https://cloud.openknowledge.be/s/YRWtc4brdYDd7L6" %}
 
 ### Resources
 
@@ -38,6 +38,10 @@ Find the description of your project here: [**https://cloud.openknowledge.be/s/Y
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#osoc-comms-fris
 
 ## File storage
 

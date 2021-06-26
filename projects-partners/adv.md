@@ -6,6 +6,8 @@ description: Agentschap Digitaal Vlaanderen –Agency Digital Flanders
 
 ## Project
 
+At the start of osoc, you'll be divided in two teams; and you'll be working on these two projects!
+
 **Team 1**
 
 {% embed url="https://cloud.openknowledge.be/s/DqptyJN9D2B6qHx" %}
@@ -14,13 +16,13 @@ description: Agentschap Digitaal Vlaanderen –Agency Digital Flanders
 
 {% embed url="https://cloud.openknowledge.be/s/SCKys4eeHkjnicY" %}
 
-### Resources
-
-_See descriptions_
-
 ### Repository
 
-_Soon_
+_Soon._
+
+### **Discord Channel**
+
+\#adv-ldes
 
 ## File storage
 

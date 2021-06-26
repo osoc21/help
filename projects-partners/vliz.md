@@ -9,8 +9,7 @@ description: >-
 
 ## Project
 
-The description of your project:  
-[**https://cloud.openknowledge.be/s/Jae8GRotyow5D2J**](https://cloud.openknowledge.be/s/Jae8GRotyow5D2J)\*\*\*\*
+{% embed url="https://cloud.openknowledge.be/s/Jae8GRotyow5D2J" %}
 
 ### Resources
 
@@ -19,6 +18,10 @@ The description of your project:
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#vliz-parser
 
 ## File Storage
 

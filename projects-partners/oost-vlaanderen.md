@@ -2,7 +2,7 @@
 
 ## Project
 
-Find the description of your project here: [**https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8**](https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8)\*\*\*\*
+{% embed url="https://cloud.openknowledge.be/s/kkfEZcQrGPgQ9T8" %}
 
 ### Resources
 
@@ -11,6 +11,10 @@ Find the description of your project here: [**https://cloud.openknowledge.be/s/k
 ### Repository
 
 _Soon_
+
+### **Discord Channel**
+
+\#oostvlaanderen-bikeinfrastructure
 
 ## File storage
 
