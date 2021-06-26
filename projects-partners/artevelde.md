@@ -6,7 +6,7 @@ description: Edubadges Belgium
 
 ## Project
 
-{% embed url="https://cloud.openknowledge.be/s/swXAPBkKfB6sGKr" %}
+{% embed url="https://cloud.openknowledge.be/s/sQ2pCFGGniZsTm4" %}
 
 ### Resources
 

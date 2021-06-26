@@ -6,7 +6,7 @@ description: Safe Open Roads
 
 ## Project
 
-{% embed url="https://cloud.openknowledge.be/s/inBKkGwAqiNe5Wa" %}
+{% embed url="https://cloud.openknowledge.be/s/k9585EmdWeYpKFH" %}
 
 _Your partner will give you a nice introduction as well on the first partner meeting!_
 
