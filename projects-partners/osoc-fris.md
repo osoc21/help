@@ -2,7 +2,7 @@
 
 ## Project
 
-{% embed url="https://cloud.openknowledge.be/s/YRWtc4brdYDd7L6" %}
+{% embed url="https://cloud.openknowledge.be/s/dfHcTjYeXk7Hxr3" %}
 
 ### Resources
 
