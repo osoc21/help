@@ -56,7 +56,7 @@ _I usually forget everything I said during the morning show immediately._
 #### Support
 
 {% hint style="success" %}
-**Coach Michiel \[michiel\#4959 on Discord\]  
+**Coach Michiel \[michiel\#0001 on Discord\]  
 osoc selections, deloitte**  
 Independent Web Developer  
   

@@ -148,7 +148,7 @@ _I'm 43_
 {% endhint %}
 
 {% hint style="success" %}
-**Coach Michiel \[michiel\#4959 on Discord\]  
+**Coach Michiel \[michiel\#0001 on Discord\]  
 osoc selections, deloitte**  
 Independent Web Developer  
   
