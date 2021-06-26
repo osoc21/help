@@ -2,7 +2,7 @@
 
 ## Project
 
-{% embed url="https://cloud.openknowledge.be/s/92MLgQzojtH7Rii" %}
+{% embed url="https://cloud.openknowledge.be/s/A7x5QYnq3j4eCM4" %}
 
 ### Repository
 
