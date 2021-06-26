@@ -8,6 +8,8 @@
 
 {% embed url="https://github.com/pietervdvn/MapComplete/issues/29" %}
 
+\[Dutch\] to be translated
+
 {% embed url="https://docs.google.com/presentation/d/1IORO4q4mg886bCYSqY-Ful6bkng1eKPJfh4Vc5a\_6xE/edit?usp=sharing" %}
 
 ### Repository
