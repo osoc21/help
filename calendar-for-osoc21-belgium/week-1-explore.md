@@ -20,9 +20,8 @@ Welcome to open summer of code! You'll get an introduction about what osoc is, w
 
 ### What are we going to do?
 
-* Study the briefing
-  * You can find the briefing in the folder of your team – which will be shared by your coach at the start of the week. Bookmark it!
-* Define goal
+* Study the briefing – You can find the briefing in your [**project site**](../projects-partners/projects-partners-overview.md)!
+* Define the goal goal
 * Summarise project \(± 200 characters\) and send it over.
 * Compose list of questions for partner/client
   * You can compose it together in the folder of your team under _meeting minutes_
