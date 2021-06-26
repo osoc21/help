@@ -2,7 +2,8 @@
 
 ## Project
 
-_Coming soon_
+Find the description of your project here:   
+[https://cloud.openknowledge.be/s/GA9wbmxXL9yaZZj](https://cloud.openknowledge.be/s/GA9wbmxXL9yaZZj)
 
 ### Resources
 
