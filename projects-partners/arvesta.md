@@ -52,7 +52,7 @@ MOW/ABB/AWV, Arvesta**
   
 [**https://github.com/jodiDL**](https://github.com/jodiDL)  
   
-****To be completed, please add your data here or add it yourself on the repo 🙏 [https://tally.so/r/3Nl4Gn](https://tally.so/r/3Nl4Gn)
+****To be completed!
 {% endhint %}
 
 ### Students
