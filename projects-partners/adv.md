@@ -10,7 +10,7 @@ At the start of osoc, you'll be divided in two teams; and you'll be working on t
 
 **Team 1**
 
-{% embed url="https://cloud.openknowledge.be/s/DqptyJN9D2B6qHx" %}
+{% embed url="https://cloud.openknowledge.be/s/AYfJMxfCitcLsMX" %}
 
 **Team 2**
 
