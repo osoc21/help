@@ -1,8 +1,28 @@
+---
+description: >-
+  The Future of work project is all about giving insights in how your team
+  should grow with your company and its plans for the future.
+---
+
 # Deloitte
 
 ## Project
 
 {% embed url="https://cloud.openknowledge.be/s/GA9wbmxXL9yaZZj" %}
+
+**Current situation:**
+
+* Our client has an application created in [R](https://en.wikipedia.org/wiki/R_%28programming_language%29) that does a lot of complicated statistical calculations based on scenarios and many parameters.
+* The application works but it consists of mostly spaghetti code. It has too many unnecessary features and no visualisations of the insights. We can try to clean up the spaghetti code or start over from scratch. 
+
+**Tasks at hand:**
+
+* Create a user-friendly interface
+* Create an interface that visualizes the calculated data which allows users to gain and present new insights
+* Find a good way for importing the data.
+* Our client did a good job documenting the formulas. 
+* Make use of the existing classes to do all calculations Take a look at the formulas that are used to make calculations and maybe even reuse them from the spaghetti code monster.   
+* Release our work as open-source 💪
 
 ### Resources
 
@@ -58,7 +78,7 @@ Figma, HTML, CSS, JavaScript, React.Js, R, SQL
 ****[**https://github.com/zenigame2**](https://github.com/zenigame2)  
   
 **Good to know**  
-_I was once the third-best in Dutch spelling in Limburg. I also have dog who I named after a famous dinosaur._
+_I was once the third-best in Dutch spelling in Limburg. I also have a dog who I named after a famous dinosaur._
 {% endhint %}
 
 #### Support
