@@ -13,7 +13,7 @@ description: >-
 **Current situation:**
 
 * Our client has an application created in [R](https://en.wikipedia.org/wiki/R_%28programming_language%29) that does a lot of complicated statistical calculations based on scenarios and many parameters.
-* The application works but it consists of mostly spaghetti code. It has too many unnecessary features and no visualisations of the insights. We can try to clean up the spaghetti code or start over from scratch. 
+* The application works but it consists of mostly spaghetti code. It has too many unnecessary features and no visualizations of the insights. We can try to clean up the spaghetti code or start over from scratch. 
 
 **Tasks at hand:**
 
