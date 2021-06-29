@@ -8,7 +8,7 @@ The goal of this week is to gather as much information you can; about your team 
 
 ### **09:00 \[all teams\] Introduction**
 
-Welcome to open summer of code! You'll get an introduction about what osoc is, what Open Knowledge Belgium is, how we work \([**code of conduct**](https://help.osoc.be/global/code-of-conduct) & [**how we work**](https://help.osoc.be/global/way-of-work)\), what our 4 weeks will be about and what you'll be ✨delivering ✨.
+Welcome to open summer of code! You'll get an introduction about what osoc is about, what [**Open Knowledge Belgium**](https://openknowledge.be/) is, how we work \([**code of conduct**](https://help.osoc.be/global/code-of-conduct) & [**how we work**](https://help.osoc.be/global/way-of-work)\), what our 4 weeks will be about and what you'll be ✨[**delivering**](https://help.osoc.be/global/how-to-deliver-like-a-pro) ✨.
 
 ### **10:00 \[team only breakout\] Get to know your team & your project**
 
@@ -21,7 +21,7 @@ Welcome to open summer of code! You'll get an introduction about what osoc is, w
 ### What are we going to do?
 
 * Study the briefing – You can find the briefing in your [**project site**](../projects-partners/projects-partners-overview.md)!
-* Define the goal goal
+* Define the goal
 * Summarise project \(± 200 characters\) and send it over.
 * Compose list of questions for partner/client
   * You can compose it together in the folder of your team under _meeting minutes_
