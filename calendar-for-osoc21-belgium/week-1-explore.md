@@ -22,7 +22,7 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
 * Study the briefing – You can find the briefing in your [**project site**](../projects-partners/projects-partners-overview.md)!
 * Define the goal
-* Summarise project \(± 200 characters\) and send it over.
+* Summarise project \(± 200 characters\) and put it in this excel sheet [**https://docs.google.com/spreadsheets/d/1DeD9CD7lxpku2ijj-MCJNNNCVGIMpjc3hRFm3IBignQ/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1DeD9CD7lxpku2ijj-MCJNNNCVGIMpjc3hRFm3IBignQ/edit?usp=sharing).
 * Compose list of questions for partner/client
   * You can compose it together in the folder of your team under _meeting minutes_
 
@@ -32,20 +32,28 @@ Welcome to open summer of code! You'll get an introduction about what osoc is ab
 
 Prepare to introduce yourselves to the other teams!
 
-* Think of a **team name** that reflects your members and project and send it over.
+**Create short pitch \(to introduce the team and project, no slides needed\).** You can base yourself on the project description you made.
+
+* Decide who pitches – and add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1DeD9CD7lxpku2ijj-MCJNNNCVGIMpjc3hRFm3IBignQ/edit?usp=sharing)\*\*\*\*
+  * The sequence of pitches will be the one in the sheet.
+  * The pitcher waits in the waiting room, and will be dragged into the pitching arena whenever they are up! Find out how here: [https://help.osoc.be/global/pitching/hackathon-pitches](https://help.osoc.be/global/pitching/hackathon-pitches)
+* Pitch the project
+  * Partner
+  * Goal
+  * For whom
+* Team introduction
+  * Pick a team name – add it to [**the sheet**](https://docs.google.com/spreadsheets/d/1DeD9CD7lxpku2ijj-MCJNNNCVGIMpjc3hRFm3IBignQ/edit?usp=sharing)\*\*\*\*
+  * Coaches & students
+
+**Create a crest**
+
 * Create a **crest** together \[[Find out how](https://help.osoc.be/global/how-to-create-crests)\]
   * Share the crest in the _crests_ folder, name it after your project and team name, like so: _team-name-crest_
 * Send over **a picture** of each team member \(take a selfie with students and coaches\)
-  * Add it in the team picture folder. Ask your coach to find that folder.
+  * Add it in the team picture folder \(find it in your [project site](../projects-partners/projects-partners-overview.md)\).
     * Create a team folder for your team _team-name_
     * Name each picture _team-name-member-name-picture_, and if it's a group pic _team-name-team-picture_
   * Make sure you wear your osoc shirt, and if you don't have it \(yet\), grab a colourful one 🌈
-
-**Create short pitch \(to introduce the team and project, no slides needed\).** You can base yourself on the project description you made. Decide who pitches.
-
-* Team introduction \(coaches and students\)
-* Client introduction
-* Pitch the project goal
 
 ### **15:30 \[all teams\] Live stream team presentations**
 
