@@ -20,8 +20,8 @@ We are ambitious, but we have systems and a solid structure in place to make sur
 
 ![explore, build &amp; test, document &amp; deliver](../.gitbook/assets/screenshot-2019-06-17-at-21.47.54.png)
 
-* [**Week 1**](week-1-explore.md): Explore
-* \*\*\*\*[**Week 2**](week-2-build-and-test.md): Build & Test
-* \*\*\*\*[**Week 3**](week-3-build-and-test.md): Build & Test
-* \*\*\*\*[**Week 4**](week-4-document-and-deliver.md): Document & Deliver
+* [**Week 1**](week-1-explore/): Explore
+* \*\*\*\*[**Week 2**](week-2-build-and-test/): Build & Test
+* \*\*\*\*[**Week 3**](week-3-build-and-test/): Build & Test
+* \*\*\*\*[**Week 4**](week-4-document-and-deliver/): Document & Deliver
 
