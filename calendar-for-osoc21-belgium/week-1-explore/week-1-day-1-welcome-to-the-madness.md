@@ -6,10 +6,6 @@ description: 'Focus on getting to know open summer of code, your team and your p
 
 {% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com\_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210705%2F20210705&mode=day" %}
 
-{% hint style="info" %}
-Detailed information below**!**
-{% endhint %}
-
 ## **Introduction – for everyone**
 
 Grab a cup of coffee/tea/bubbletea/water and sit back!
