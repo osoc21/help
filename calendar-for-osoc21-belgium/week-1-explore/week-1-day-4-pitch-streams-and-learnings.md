@@ -34,6 +34,10 @@ You have all afternoon to prep for next week. This could include:
 
 _Find your groove. Use this time to get ready to conquer the world... next week._
 
+## \[optional workshop\] How to make your projects Live Long and Prosper 🖖
+
+Walk into the weekend inspired by Anastasia about how you can make your project live long and prosper – beyond osoc \([**click the calendar**](week-1-day-4-pitch-streams-and-learnings.md#calendar) to find the meeting link!\).
+
 {% hint style="success" %}
 YOU SURVIVED WEEK 1!!11!!!!
 {% endhint %}
