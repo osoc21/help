@@ -15,7 +15,7 @@
     * ES: [https://www.instagram.com/osocode\_es/](https://www.instagram.com/osocode_es/)
   * Website
     * BE: [https://osoc.be/](https://osoc.be/)
-    * ES: [https://t.co/ACsdpcC5O9?amp=1](https://t.co/ACsdpcC5O9?amp=1)
+    * ES: [https://summerofcode.es/](https://summerofcode.es/)
   * Twitter:
     * BE: [https://twitter.com/osocode](https://twitter.com/osocode)
     * ES: [https://twitter.com/oSocode\_es](https://twitter.com/oSocode_es)
