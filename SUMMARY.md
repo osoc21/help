@@ -11,7 +11,7 @@
   * [Week 1: Explore](calendar-for-osoc21-belgium/week-1-explore/README.md)
     * [Week 1 Day 1: Welcome to the Madness](calendar-for-osoc21-belgium/week-1-explore/week-1-day-1-welcome-to-the-madness.md)
     * [Week 1 Day 2: Meet the Client & Start Hacking](calendar-for-osoc21-belgium/week-1-explore/week-1-day-2-meet-the-client-and-start-hacking.md)
-    * [Week 1 Day 3: Hackathon End](calendar-for-osoc21-belgium/week-1-explore/week-1-day-3-hackathon-end.md)
+    * [Week 1 Day 3: Hackathon End + Pitches](calendar-for-osoc21-belgium/week-1-explore/week-1-day-3-hackathon-end.md)
     * [Week 1 Day 4: Pitch Streams & Learnings](calendar-for-osoc21-belgium/week-1-explore/week-1-day-4-pitch-streams-and-learnings.md)
   * [Week 2: Build & Test](calendar-for-osoc21-belgium/week-2-build-and-test/README.md)
     * [Week 1 Day 2: First Build Week + Networking \(but fun\)](calendar-for-osoc21-belgium/week-2-build-and-test/week-1-day-2.md)

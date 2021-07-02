@@ -63,7 +63,7 @@ Share the crest in the [**crests**](https://drive.google.com/drive/folders/1iLFi
 
 Enjoy watching the other teams, while the [**pitcher in your team shines**](week-1-day-1-welcome-to-the-madness.md#pitching)!
 
-## Say Cheese
+## Say Cheese & Prep your Conversation Starter Profile
 
 Send over **a picture** of _each team member_ + **take a screenshot** with _students and coaches_
 
@@ -71,4 +71,12 @@ Send over **a picture** of _each team member_ + **take a screenshot** with _stud
 * Add it in the [**team picture folder**](https://drive.google.com/drive/folders/1_hnV3hBNnCnsu8qxwDlQgDi0776lyYpQ?usp=sharing)\*\*\*\*
   * Create a team folder in that folder for your team _team-name_
   * Name each picture _team-name-member-name-picture_, and if it's a group pic _team-name-team-picture_
+
+Because it's a remote edition, we set up a cool way to meet other people randomly – with Conversation Starter \(founded by a coach of ours, Rutger!\)
+
+Get started here: [**https://events.conversationstarter.net/e/osoc/**](https://events.conversationstarter.net/e/osoc/)\*\*\*\*
+
+1. Today: Set up your profile; make it all about you!
+2. Later this week: You'll get to schedule conversations with people that spark your interest. If you want to let faith decide who you'll meet, we'll pair you with random people!
+3. Monday 12 July in the evening: Let's rolllll
 
