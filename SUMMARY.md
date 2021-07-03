@@ -30,6 +30,7 @@
     * [Week 4 Day 4: Demo Day + Goodbye ❤️](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-4-demo-day-+-goodbye.md)
 * [Pitching Sequences](pitching-sequence.md)
 * [Partner meetings](collaboration-and-documentation.md)
+* [Workshops & Talks](workshops-and-talks.md)
 
 ## Projects & Partners <a id="projects-partners"></a>
 
