@@ -14,6 +14,7 @@
 * Look into tools like Tally, Typeform, Google forms, ... \(to conduct research and take surveys\)
 * Take a look at your own sign-up experience
 * Take a look at how Figma and Miro works
+* Intro about our flow: [https://cloud.openknowledge.be/s/dPof69n4tZeipBp](https://cloud.openknowledge.be/s/dPof69n4tZeipBp)
 
 ### Repository
 

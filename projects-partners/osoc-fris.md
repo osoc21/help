@@ -34,6 +34,7 @@
 * Imagine what you would like \#osoc21 to look / feel like 
 * Take a look at the different audiences we have and on which social media platforms we can find them
 * Study our branding
+* Intro about our flow: [https://cloud.openknowledge.be/s/dPof69n4tZeipBp](https://cloud.openknowledge.be/s/dPof69n4tZeipBp)
 
 ### Repository
 
