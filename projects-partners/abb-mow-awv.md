@@ -18,9 +18,10 @@ _Your partner will give you a nice introduction as well on the first partner mee
 * Using ember.js [**https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/ember.js**](https://abb-vlaanderen.gitbook.io/abb/v/english/development/architecture/ember.js)\*\*\*\*
 * Style components [**https://abb-vlaanderen.gitbook.io/abb/v/english/development/front-end/css**](https://abb-vlaanderen.gitbook.io/abb/v/english/development/front-end/css)\*\*\*\*
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/the-floof-fighters](https://github.com/orgs/osoc21/teams/the-floof-fighters)
+* Repository: [https://github.com/osoc21/RoadBase](https://github.com/osoc21/RoadBase)
 
 ### **Discord Channel**
 

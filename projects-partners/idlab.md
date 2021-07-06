@@ -4,9 +4,10 @@
 
 {% embed url="https://cloud.openknowledge.be/s/A7x5QYnq3j4eCM4" %}
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/wepod](https://github.com/orgs/osoc21/teams/wepod)
+* Repository: [https://github.com/osoc21/Reclaim-your-data](https://github.com/osoc21/Reclaim-your-data)
 
 ### **Discord Channel**
 

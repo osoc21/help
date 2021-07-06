@@ -15,9 +15,10 @@ description: >-
 
 \*\*\*\*[**https://docs.google.com/document/d/1NQ4NiHejRFfPfYkCNIRHR7bpRaPWjYZnQiS2Q1-tIQU/edit?usp=sharing**](https://docs.google.com/document/d/1NQ4NiHejRFfPfYkCNIRHR7bpRaPWjYZnQiS2Q1-tIQU/edit?usp=sharing)\*\*\*\*
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/citation-needed](https://github.com/orgs/osoc21/teams/citation-needed)
+* Repository: [https://github.com/osoc21/Final-Improved-String-pHarser](https://github.com/osoc21/Final-Improved-String-pHarser)
 
 ### **Discord Channel**
 

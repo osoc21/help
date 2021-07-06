@@ -36,9 +36,10 @@
 * Study our branding
 * Intro about our flow: [https://cloud.openknowledge.be/s/dPof69n4tZeipBp](https://cloud.openknowledge.be/s/dPof69n4tZeipBp)
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/social-frisbees](https://github.com/orgs/osoc21/teams/social-frisbees)
+* Repository: [https://github.com/osoc21/Open-Talks](https://github.com/osoc21/Open-Talks)
 
 ### **Discord Channel**
 

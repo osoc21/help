@@ -28,9 +28,10 @@ description: >-
 
 _In progress._
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/the-deloitted-spaghettis](https://github.com/orgs/osoc21/teams/the-deloitted-spaghettis)
+* Repository: [https://github.com/osoc21/Future-of-Work](https://github.com/osoc21/Future-of-Work)
 
 ### **Discord Channel**
 

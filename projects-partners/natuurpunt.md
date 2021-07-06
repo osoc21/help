@@ -4,9 +4,10 @@
 
 {% embed url="https://cloud.openknowledge.be/s/d2pTR9zQknnA4AF" %}
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/nature-s-finest](https://github.com/orgs/osoc21/teams/nature-s-finest)
+* Repository: [https://github.com/osoc21/Nature-moves](https://github.com/osoc21/Nature-moves)
 
 ### **Discord Channel**
 

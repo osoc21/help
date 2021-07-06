@@ -16,9 +16,10 @@ At the start of osoc, you'll be divided in two teams; and you'll be working on t
 
 {% embed url="https://cloud.openknowledge.be/s/SCKys4eeHkjnicY" %}
 
-### Repository
+### GitHub
 
-_Soon._
+* Team: [https://github.com/orgs/osoc21/teams/linked-out](https://github.com/orgs/osoc21/teams/linked-out)
+* Repository: [https://github.com/osoc21/Linked-Data-Event-Streams](https://github.com/osoc21/Linked-Data-Event-Streams)
 
 ### **Discord Channel**
 

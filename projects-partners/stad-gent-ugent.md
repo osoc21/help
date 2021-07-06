@@ -4,9 +4,10 @@
 
 {% embed url="https://cloud.openknowledge.be/s/aBCwdf5p5zpdt6c" %}
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/the-tiny-troop](https://github.com/orgs/osoc21/teams/the-tiny-troop)
+* Repository: [https://github.com/osoc21/Crowdy](https://github.com/osoc21/Crowdy)
 
 ### **Discord Channel**
 

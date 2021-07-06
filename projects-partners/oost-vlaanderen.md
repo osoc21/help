@@ -12,9 +12,10 @@
 
 {% embed url="https://docs.google.com/presentation/d/1IORO4q4mg886bCYSqY-Ful6bkng1eKPJfh4Vc5a\_6xE/edit?usp=sharing" %}
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/the-golden-bikers](https://github.com/orgs/osoc21/teams/the-golden-bikers)
+* Repository: [https://github.com/osoc21/BikeInfrastructure](https://github.com/osoc21/BikeInfrastructure)
 
 ### **Discord Channel**
 

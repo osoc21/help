@@ -16,9 +16,10 @@
 * Take a look at how Figma and Miro works
 * Intro about our flow: [https://cloud.openknowledge.be/s/dPof69n4tZeipBp](https://cloud.openknowledge.be/s/dPof69n4tZeipBp)
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/sherlock](https://github.com/orgs/osoc21/teams/sherlock)
+* Repository: [https://github.com/osoc21/selection-tool](https://github.com/osoc21/selection-tool)
 
 ### **Discord Channel**
 

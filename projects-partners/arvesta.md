@@ -8,9 +8,10 @@
 
 _In progress._
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/the-ideation-barn](https://github.com/orgs/osoc21/teams/the-ideation-barn)
+* Repository: [https://github.com/osoc21/Arvesta-Farmers-Hackathon](https://github.com/osoc21/Arvesta-Farmers-Hackathon)
 
 ### **Discord Channel**
 

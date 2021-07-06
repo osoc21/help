@@ -4,9 +4,10 @@
 
 {% embed url="https://cloud.openknowledge.be/s/9iHXgE897TzKj84" %}
 
-### Repository
+### GitHub
 
-_Soon_
+* Team: [https://github.com/orgs/osoc21/teams/the-rattlesnakes](https://github.com/orgs/osoc21/teams/the-rattlesnakes)
+* Repository: [https://github.com/osoc21/Safe-Crossing](https://github.com/osoc21/Safe-Crossing)
 
 ### **Discord Channel**
 
