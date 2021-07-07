@@ -36,7 +36,7 @@
 
 * [Projects & Partners overview](projects-partners/projects-partners-overview.md)
 * [ABB – MOW – AWV](projects-partners/abb-mow-awv.md)
-* [Consortium: Open Recognition Alliance, Artevelde Hogeschool, HoGent, KodeKlub, Belnet, KdG](projects-partners/artevelde.md)
+* [Consortium: Open Recognition, Artevelde Hogeschool, HoGent, KodeKlub, Belnet, KdG, Thomas More](projects-partners/artevelde.md)
 * [Arvesta](projects-partners/arvesta.md)
 * [ADV](projects-partners/adv.md)
 * [IDLab](projects-partners/idlab.md)

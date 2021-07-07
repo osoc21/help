@@ -2,7 +2,7 @@
 description: Edubadges Belgium
 ---
 
-# Consortium: Open Recognition Alliance, Artevelde Hogeschool, HoGent, KodeKlub, Belnet, KdG
+# Consortium: Open Recognition, Artevelde Hogeschool, HoGent, KodeKlub, Belnet, KdG, Thomas More
 
 ## Project
 
@@ -92,6 +92,8 @@ Lies, Marie
 ![Logo Karel de Grote Hogeschool](../.gitbook/assets/kdg-logo.svg)
 
 ![Logo Kodeklub](../.gitbook/assets/kodeklub-logo.svg)
+
+![Logo Thomas More](../.gitbook/assets/logo-thomasmore.svg)
 
 
 

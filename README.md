@@ -7,6 +7,8 @@ description: >-
 
 # \#osoc21
 
+
+
 ![You made it, we&apos;re so happy you are here!](.gitbook/assets/screenshot-2020-06-18-at-14.41.43.png)
 
 {% hint style="success" %}
