@@ -27,7 +27,9 @@ For this second fully remote edition, we hang out in Discord. Come say hi, we'd 
 
 After you’ve created an account, please carefully read Miet's how-to-get-started message in the `#welcome` channel. All of you will be tagged in the specific Discord channel for your project.
 
-{% embed url="https://discord.gg/qHcf2mvXnW" %}
+{% hint style="success" %}
+Everyone is on the server! If you want someone to join, give @Miet a heads up 😘
+{% endhint %}
 
 ## **Be there on Monday 09:00** _**sharp**_
 
