@@ -1,5 +1,17 @@
 # Workshops & Talks
 
+## How to Make Your Project Live Long & Prosper with Anastasia
+
+{% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=f6ab80d4f6e4f478f1b60aa826a02952f0a4197e-1625751726656" %}
+
+Give feedback here: [**https://tally.so/r/3jPZ4n**](https://tally.so/r/3jPZ4n)\*\*\*\*
+
+## Git with Martin
+
+{% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=f6ab80d4f6e4f478f1b60aa826a02952f0a4197e-1625664902962" %}
+
+Give feedback here: [**https://tally.so/r/mOGagm**](https://tally.so/r/mOGagm)\*\*\*\*
+
 ## How to Go From Concept to Design by Niels Dewelde
 
 How do you get started on a project, and bring it to life?
