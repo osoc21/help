@@ -2,11 +2,19 @@
 
 ## Docker with Selwin
 
-Soon 👀
+{% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=7c9b3ad538b40d2c39b7916c4c01f90912e7e8c4-1626087116462" %}
+
+Give feedback here: [**https://tally.so/r/wQVrgn**](https://tally.so/r/wQVrgn)\*\*\*\*
 
 The powerpoint and the code/dockerfiles for the docker session:
 
 {% file src=".gitbook/assets/osoc-docker.zip" caption="Powerpoint & Code + Dockerfiles" %}
+
+## How to Start a Start-Up with Rutger
+
+{% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=df145fc9490c3a0835bd5dac1ff9726f2bb12601-1626087121117" %}
+
+Give feedback here: [**https://tally.so/r/3NoVGw**](https://tally.so/r/3NoVGw)\*\*\*\*
 
 ## How to Make Your Project Live Long & Prosper with Anastasia
 
