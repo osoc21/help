@@ -1,5 +1,13 @@
 # Workshops & Talks
 
+## Docker with Selwin
+
+Soon 👀
+
+The powerpoint and the code/dockerfiles for the docker session:
+
+{% file src=".gitbook/assets/osoc-docker.zip" caption="Powerpoint & Code + Dockerfiles" %}
+
 ## How to Make Your Project Live Long & Prosper with Anastasia
 
 {% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=f6ab80d4f6e4f478f1b60aa826a02952f0a4197e-1625751726656" %}
