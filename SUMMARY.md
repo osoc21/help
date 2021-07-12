@@ -14,7 +14,7 @@
     * [Week 1 Day 3: Hackathon End + Pitches](calendar-for-osoc21-belgium/week-1-explore/week-1-day-3-hackathon-end.md)
     * [Week 1 Day 4: Pitch Streams & Learnings](calendar-for-osoc21-belgium/week-1-explore/week-1-day-4-pitch-streams-and-learnings.md)
   * [Week 2: Build & Test](calendar-for-osoc21-belgium/week-2-build-and-test/README.md)
-    * [Week 1 Day 2: First Build Week + Networking \(but fun\)](calendar-for-osoc21-belgium/week-2-build-and-test/week-1-day-2.md)
+    * [Week 2 Day 1: First Build Week + Talks + Networking \(but fun\)](calendar-for-osoc21-belgium/week-2-build-and-test/week-1-day-2.md)
     * [Week 2 Day 2](calendar-for-osoc21-belgium/week-2-build-and-test/week-2-day-2.md)
     * [Week 2 Day 3](calendar-for-osoc21-belgium/week-2-build-and-test/week-2-day-3.md)
     * [Week 2 Day 4](calendar-for-osoc21-belgium/week-2-build-and-test/week-2-day-4.md)
