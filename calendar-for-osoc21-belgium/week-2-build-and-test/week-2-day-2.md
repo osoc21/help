@@ -47,7 +47,7 @@ Can't attend the talk or workshop? Don't worry! You can always [**watch them aft
 Your face, on the osoc website, soon 👀. Example: [https://osoc.be/editions/2020](https://osoc.be/editions/2020)
 
 * _**HOW**_
-  * Wear your osoc t-shirt or a colourful shirt if you didn't receive it yet\)
+  * Wear your osoc t-shirt or a colourful shirt if you didn't receive it yet
   * Take the picture in front of a white background
   * Cheeeese
 * _**DEADLINE**_  Thursday 15 July
@@ -56,4 +56,6 @@ Your face, on the osoc website, soon 👀. Example: [https://osoc.be/editions/20
   * firstname-lastname.png / firstname-lastname.jpg
   * JPG/PNG
 * _**GOOD TO KNOW**_ we will use them masked in a circle on the website
+
+
 

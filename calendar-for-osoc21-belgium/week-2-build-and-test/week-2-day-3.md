@@ -23,7 +23,7 @@ Tips & Tricks on [**https://help.osoc.be/global/tutorials/pitching**](https://he
 Your face, on the osoc website, soon 👀. Example: [**https://osoc.be/editions/2020**](https://osoc.be/editions/2020)\*\*\*\*
 
 * _**HOW**_
-  * Wear your osoc t-shirt or a colourful shirt if you didn't receive it yet\)
+  * Wear your osoc t-shirt \(or a colourful shirt if you didn't receive it yet\)
   * Take the picture in front of a white background
   * Cheeeese
 * _**DEADLINE**_  Thursday 15 July
