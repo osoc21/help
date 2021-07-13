@@ -77,7 +77,7 @@ _Big roller coaster fan! The crazier/faster, the better!_
 
 ## Students
 
-Felix, Stijn, Maarten
+Felix, Cat, Maarten
 
 ## Logo
 

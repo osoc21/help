@@ -14,5 +14,5 @@
 | \*\*\*\*[**osoc comms sponsored by Fris**](osoc-fris.md)\*\*\*\* | osoc communications team | Astrid \(HT\) | Niels \(FT\) Miet \(HT\) | Britt, Yaiza |
 | \*\*\*\*[**osoc selections**](osoc-selections.md) | osoc diversity selections | Miet \(HT\) | Michiel \(HT\) | Tischa, Jeroen, Merline |
 | \*\*\*\*[**Stad Gent / UGent**](stad-gent-ugent.md)\*\*\*\* | Bustle meter \(druktemeter\) | Hannes & Alex \(HT\) | Christophe \(FT\) | Eben Ezeer, Eléna, Kaj, Loeka |
-| \*\*\*\*[**VLIZ**](vliz.md)\*\*\*\* | Publication reference string parser | Christophe \(FT\) | Liesbeth \(HT\) | Felix, Stijn, Maarten |
+| \*\*\*\*[**VLIZ**](vliz.md)\*\*\*\* | Publication reference string parser | Christophe \(FT\) | Liesbeth \(HT\) | Felix, Cat, Maarten |
 
