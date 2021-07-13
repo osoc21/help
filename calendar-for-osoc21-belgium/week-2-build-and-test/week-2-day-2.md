@@ -44,3 +44,16 @@ Thor, an osoc alumni that has made some _niiiiice_ projects with us has a very l
 Can't attend the talk or workshop? Don't worry! You can always [**watch them after work**](../../workshops-and-talks.md) with some 🍿🥤
 {% endhint %}
 
+## Selfie Time 😅😘🐣
+
+Your face, on the osoc website, soon 👀. Example: [https://osoc.be/editions/2020](https://osoc.be/editions/2020)
+
+* _**HOW**_
+  * Wear your osoc t-shirt or a colourful shirt if you didn't receive it yet\)
+  * Take the picture in front of a white background
+  * Cheeeese
+* _**DEADLINE**_  Thursday 15 July
+* _**WHERE**_ [https://drive.google.com/drive/folders/1YpAoyxVZz8sAvuf3oY7rioH7KCFvg7b4?usp=sharing](https://drive.google.com/drive/folders/1YpAoyxVZz8sAvuf3oY7rioH7KCFvg7b4?usp=sharing)
+* _**FORMAT**_ JPG/PNG
+* _**GOOD TO KNOW**_ we will use them masked in a circle on the website
+
