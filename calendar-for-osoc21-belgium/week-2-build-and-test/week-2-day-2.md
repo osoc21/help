@@ -30,13 +30,11 @@ Scroll down to see more days, scroll to the right to see more teams and their li
 
 ## Pick your Talk
 
-### \[optional workshop 1\] Collaborating between Design and Dev by Niels & \[optional workshop 2\] Atomic Design by Niels
+### \[optional workshop 1\] Collaborating between Design and Dev by Niels
 
-Two very interesting talks by our Swag Manager for designers & devs alike; and probably anyone in the team circling around them.
+Go to [**Workshops & Talks**](../../workshops-and-talks.md) and find this one and other interesting ones there!
 
-Learn how to function better with these two short talks as a team.
-
-### \[optional workshop 3\] Data Prototyping in Notion by Thor
+### \[optional workshop 2\] Data Prototyping in Notion by Thor
 
 Thor, an osoc alumni that has made some _niiiiice_ projects with us has a very low-entry way of prototyping data in Notion. It'll help your team think about what they need \(what data, database structure, ...\) _before_ they start building things for human beings.  
 
