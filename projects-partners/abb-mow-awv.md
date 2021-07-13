@@ -69,7 +69,7 @@ _Inti is the name of the Inca sun god_
 
 ### Students
 
-Sam, Fien, Inés, Bo, Sybren, Hans, Xuan Hung, Lieselot, Ilya
+Julia, Fien, Inés, Bo, Sybren, Hans, Xuan Hung, Lieselot, Ilya
 
 ### Specific councillors
 

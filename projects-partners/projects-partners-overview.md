@@ -2,7 +2,7 @@
 
 | Partner name | \(Temporary\) Project name | Lead coach | Support coach | Team members |
 | :--- | :--- | :--- | :--- | :--- |
-| \*\*\*\*[**ABB, MOW & AWV**](abb-mow-awv.md)\*\*\*\* | Safe Open Roads | Jodi \(FT\) | Inti \(HT\) | Sam, Fien, Inés, Bo, Sybren, Hans, Xuan Hung, Lieselot, Ilya |
+| \*\*\*\*[**ABB, MOW & AWV**](abb-mow-awv.md)\*\*\*\* | Safe Open Roads | Jodi \(FT\) | Inti \(HT\) | Julia, Fien, Inés, Bo, Sybren, Hans, Xuan Hung, Lieselot, Ilya |
 | [**Consortium: Open Recognition, Arteveldehogeschool, HoGent, KodeKlub, Belnet, KdG, Thomas More**](artevelde.md)\*\*\*\* | EduBadges Belgium | Emma \(HT\) | Bert | Lies, Marie |
 | \*\*\*\*[**Arvesta**](arvesta.md)\*\*\*\* | Hackathon | Niels \(FT\) | Jodi \(FT\) | Stivi, Bram, Laura |
 | \*\*\*\*[**ADV**](adv.md)\*\*\*\* | Linked Data Event Streams | Demian \(HT\) | Martin \(HT\) & Xavier \(HT\) | Clément, Arno T, Wout, Ryan, Carlos |
