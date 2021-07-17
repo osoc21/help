@@ -1,5 +1,9 @@
 # Workshops & Talks
 
+## Data Prototyping in Notion by Thor
+
+{% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=a11c95ef40208cb98124fb23cd67f0ddf3241ebf-1626173750149" %}
+
 ## Docker with Selwin
 
 {% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=7c9b3ad538b40d2c39b7916c4c01f90912e7e8c4-1626087116462" %}
