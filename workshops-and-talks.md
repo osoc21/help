@@ -60,9 +60,5 @@ Creating your animations in After effects and transforming them to Code with Lot
 
 {% embed url="https://www.youtube.com/watch?v=FotWtG9Ym1I" %}
 
-## How to Vlog by Marijn
-
-{% embed url="https://www.youtube.com/watch?v=8kZqCR53y6A" %}
-
 
 
