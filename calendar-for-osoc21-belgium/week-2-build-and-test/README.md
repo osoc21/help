@@ -8,5 +8,13 @@ Use what you've learnt during the hackathon this week! It's all about building, 
 
 {% embed url="https://calendar.google.com/calendar/embed?src=mietclaes.com\_h1rs31a79809r742e5lpdpegbg%40group.calendar.google.com&ctz=Europe%2FBrussels&dates=20210712%2F20210715&mode=week" %}
 
+{% page-ref page="week-1-day-2.md" %}
+
+{% page-ref page="week-2-day-2.md" %}
+
+{% page-ref page="week-2-day-3.md" %}
+
+{% page-ref page="week-2-day-4.md" %}
+
 
 

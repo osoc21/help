@@ -1,4 +1,4 @@
-# Week 2 Day 2
+# Week 2 Day 2: Client meetings + Talks + Selfie time
 
 ## Calendar
 

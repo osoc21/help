@@ -1,5 +1,9 @@
 # Workshops & Talks
 
+## How to Pro Pitch With Less by Annelies
+
+_Coming soon_
+
 ## Data Prototyping in Notion by Thor
 
 {% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=a11c95ef40208cb98124fb23cd67f0ddf3241ebf-1626173750149" %}

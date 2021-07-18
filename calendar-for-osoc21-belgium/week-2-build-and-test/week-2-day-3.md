@@ -1,4 +1,4 @@
-# Week 2 Day 3
+# Week 2 Day 3: Pitch Deadline + Selfie Time
 
 ## Calendar
 
