@@ -25,7 +25,7 @@
     * [Week 3 Day 4: Invite People!](calendar-for-osoc21-belgium/week-3-build-and-test/week-3-day-4.md)
   * [Week 4: Document & Deliver](calendar-for-osoc21-belgium/week-4-document-and-deliver/README.md)
     * [Week 4 Day 1: Invite People!](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-1.md)
-    * [Week 4 Day 2: Invite People!](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-2.md)
+    * [Week 4 Day 2: Invite People! + Pitch Deadline](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-2.md)
     * [Week 4 Day 3: Invite People!](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-3.md)
     * [Week 4 Day 4: Demo Day + Goodbye ❤️](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-4-demo-day-+-goodbye.md)
 * [Pitching Sequences](pitching-sequence.md)

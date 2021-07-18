@@ -6,7 +6,27 @@
 
 ## Deliver your pitch
 
-Drop your pitch in the [**Week 3: pitches**](https://drive.google.com/drive/folders/1sorRG5n-Zbvg7wNk_oKEFzcc0ieCokf8?usp=sharing) folder.
+
+
+
+
+## Pitch Deadline at 15:30
+
+Your third pitch will be delivered in a video format.
+
+Drop your pitch in the [**Week 3: pitches**](https://drive.google.com/drive/folders/1sorRG5n-Zbvg7wNk_oKEFzcc0ieCokf8?usp=sharing) folder. \(Ping Miet if you're running into trouble making the deadline\).
+
+* 60 seconds
+* max 6 slides
+* .mov format
+
+{% hint style="info" %}
+Use Annelies' tips! [**Rewatch it 🥳**](../../workshops-and-talks.md#how-to-pro-pitch-with-less-by-annelies)\*\*\*\*
+{% endhint %}
+
+{% hint style="info" %}
+More Tips & Tricks on [**https://help.osoc.be/global/tutorials/pitching**](https://help.osoc.be/global/tutorials/pitching)\*\*\*\*
+{% endhint %}
 
 ## Invite People to the Demo Day!
 
