@@ -22,5 +22,5 @@ Use Annelies' tips! [**Rewatch it 🥳**](../../workshops-and-talks.md#how-to-pr
 More Tips & Tricks on [**https://help.osoc.be/global/tutorials/pitching**](https://help.osoc.be/global/tutorials/pitching)\*\*\*\*
 {% endhint %}
 
-
+## Pitch Rehearsal at 14:30
 
