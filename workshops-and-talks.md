@@ -2,11 +2,19 @@
 
 ## How to Pro Pitch With Less by Annelies
 
-_Coming soon_
+{% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=556d676c6644993227acfc68112b0d87505b45b7-1626684045375" %}
+
+{% embed url="https://t.co/eisUz95zFs?amp=1" %}
 
 ## Intro to Dev 001 / Dev for non dev / W.. even is Dev by Chris
 
-_Coming soon_
+_"And if we can flood the job market and the industry with people who understand each other then 💯"_
+
+{% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=9894a85ab2cf8fac80da4a6e6f682ab76e4a033f-1626692309759" %}
+
+{% embed url="https://drive.google.com/file/d/1zJQyebt6ymGn7ZdQ68P9TYsjTuj6Iawk/view?usp=sharing" %}
+
+\_\_
 
 ## Data Prototyping in Notion by Thor
 
