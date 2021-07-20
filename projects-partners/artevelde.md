@@ -83,7 +83,9 @@ Lies, Marie
 
 ![Open Recognition Alliance](../.gitbook/assets/openrecognitionalliance-logo.svg)
 
-![Logo Artevelde Hogeschool](../.gitbook/assets/artevelde-logo.svg)
+![Artevelde hogeschool Dutch](../.gitbook/assets/logo-artevelde.svg)
+
+![Artevelde University of Applied Sciences English](../.gitbook/assets/logo-artevelde-eng%20%281%29.svg)
 
 ![Logo Belnet](../.gitbook/assets/logo-belnet.svg)
 
