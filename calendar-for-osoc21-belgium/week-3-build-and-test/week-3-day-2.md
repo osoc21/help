@@ -26,7 +26,17 @@ Some tips and tricks can come in handy if you've never attended a client meeting
 
 Scroll down to see more days, scroll to the right to see more teams and their links!
 
+{% hint style="warning" %}
+Upload a picture \(with consent\) of your team and your partner ❤ [**https://drive.google.com/drive/folders/1P8UlnxsP-WS17Iy9uUVdOxkkk5XrxvVV?usp=sharing**](https://drive.google.com/drive/folders/1P8UlnxsP-WS17Iy9uUVdOxkkk5XrxvVV?usp=sharing)️
+{% endhint %}
+
 {% embed url="https://docs.google.com/spreadsheets/d/1TZA3TUkrc\_Q8BYG9NHA1oS6o67V\_v8BErq0fm5Bi-i0/edit?usp=sharing" %}
+
+## Moment of Silence at 12:00
+
+Today is the official day in Belgium to mourn the victims of the floodings. Come to the moment-of-silence voice channel to mourn the lives that have been lost, for one minute at 12:00PM.
+
+![](../../.gitbook/assets/story_rauw.png)
 
 ## Pitch Deadline at 15:30
 
@@ -48,7 +58,9 @@ More Tips & Tricks on [**https://help.osoc.be/global/tutorials/pitching**](https
 
 ## Invite People to the Demo Day!
 
-Don't just invite your friends and family to show off what you made; invite your \(future\) colleagues and employers – so you get to land that dream job 😎[**https://bit.ly/DemoDayosoc21**](https://bit.ly/DemoDayosoc21)\*\*\*\*
+Don't just invite your friends and family to show off what you made; invite your \(future\) colleagues and employers – so you get to land that dream job 😎 [**https://bit.ly/DemoDayosoc21**](https://bit.ly/DemoDayosoc21)\*\*\*\*
 
 {% embed url="https://bit.ly/DemoDayosoc21" caption="https://bit.ly/DemoDayosoc21" %}
+
+
 
