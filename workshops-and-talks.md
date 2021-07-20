@@ -16,6 +16,10 @@ _"And if we can flood the job market and the industry with people who understand
 
 \_\_
 
+## How to Communicate Better with Your Colleagues in a Remote Setting by Clément
+
+{% embed url="https://1drv.ms/v/s!ArI5AYiYxIGnj6dxOhO1u3nxuMW8OA?e=CWCf8O" %}
+
 ## Data Prototyping in Notion by Thor
 
 {% embed url="https://meet.openknowledge.be/playback/presentation/2.0/playback.html?meetingId=a11c95ef40208cb98124fb23cd67f0ddf3241ebf-1626173750149" %}
