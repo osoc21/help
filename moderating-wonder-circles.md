@@ -64,9 +64,9 @@ If everybody starts talking at the same time, _you're gonna have a bad time_. On
 
 ### Templates
 
-{% file src="../../.gitbook/assets/osoc21-demoday-wonder.key" caption="Stage Template Keynote" %}
+{% file src=".gitbook/assets/osoc21-demoday-wonder.key" caption="Stage Template Keynote" %}
 
-{% file src="../../.gitbook/assets/osoc21-demoday-wonder \(1\).pptx" caption="Stage Template PowerPoint" %}
+{% file src=".gitbook/assets/osoc21-demoday-wonder \(1\).pptx" caption="Stage Template PowerPoint" %}
 
 #### Font for templates
 
