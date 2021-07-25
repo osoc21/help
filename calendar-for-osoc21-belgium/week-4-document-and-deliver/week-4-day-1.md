@@ -18,6 +18,10 @@ Don't just invite your friends and family to show off what you made; invite your
 
 Find your delivery checklist in your [**project page**](../../projects-partners/projects-partners-overview.md).
 
+Examples for the Handover Dossier:
+
+{% embed url="https://drive.google.com/drive/folders/1PtQ66HVd3DKuJtRML1gxb\_nSMY52pIeW?usp=sharing" %}
+
 Use this guide to deliver like a pro:
 
 {% embed url="https://help.osoc.be/global/tutorials/how-to-deliver-like-a-pro" %}
