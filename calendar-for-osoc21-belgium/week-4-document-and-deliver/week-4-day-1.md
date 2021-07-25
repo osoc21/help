@@ -10,21 +10,21 @@ Don't just invite your friends and family to show off what you made; invite your
 
 {% embed url="https://bit.ly/DemoDayosoc21" caption="https://bit.ly/DemoDayosoc21" %}
 
-## Deploy: Final Call for Deployment Help
+## Make Sure Your Project is Merged & Deployed
 
-[**Ask Jonathan for help**](https://github.com/osoc21/technical-support) if you need it; Tuesday is his last day!
+Today is the Final Call for Deployment Help. [**Ask Jonathan for help**](https://github.com/osoc21/technical-support) if you need it; Tuesday is his last day!
 
 ## Deliver Like a Pro
 
 Find your delivery checklist in your [**project page**](../../projects-partners/projects-partners-overview.md).
 
-Examples for the Handover Dossier:
-
-{% embed url="https://drive.google.com/drive/folders/1PtQ66HVd3DKuJtRML1gxb\_nSMY52pIeW?usp=sharing" %}
-
 Use this guide to deliver like a pro:
 
 {% embed url="https://help.osoc.be/global/tutorials/how-to-deliver-like-a-pro" %}
+
+Examples for the Handover Dossier:
+
+{% embed url="https://drive.google.com/drive/folders/1PtQ66HVd3DKuJtRML1gxb\_nSMY52pIeW?usp=sharing" %}
 
 ## Pick your Talk
 

@@ -1,3 +1,7 @@
+---
+description: Ooooooooooooooooooooooaaaaaaaaeeeeeeeeeeeuuuuuuuiiiiiiiii
+---
+
 # Week 4 Day 4: Demo Day + Goodbye ❤️
 
 ## Calendar
@@ -10,7 +14,7 @@ If something went terribly wrong... You can still fix it now 😬
 
 ![](https://gblobscdn.gitbook.com/assets%2F-LckflnxdoFGRNgQmj50%2F-MDB4oZpt3KfClYBh7DI%2F-MDB4rpoXJ_KuYkdEyKv%2Felmo.gif?alt=media&token=bef6e877-8e6c-47b1-b56c-467aca3e1ae7)
 
-## Last Rehearsal at 10:00
+## Rehearsal at 10:00
 
 
 

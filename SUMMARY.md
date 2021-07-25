@@ -28,6 +28,7 @@
     * [Week 4 Day 2: Invite People! + Pitch Deadline](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-2.md)
     * [Week 4 Day 3: Invite People! + Delivery Deadline](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-3.md)
     * [Week 4 Day 4: Demo Day + Goodbye ❤️](calendar-for-osoc21-belgium/week-4-document-and-deliver/week-4-day-4-demo-day-+-goodbye.md)
+    * [Moderating Wonder Circles](calendar-for-osoc21-belgium/week-4-document-and-deliver/moderating-wonder-circles.md)
 * [Pitching Sequences](pitching-sequence.md)
 * [Partner meetings](collaboration-and-documentation.md)
 * [Workshops & Talks](workshops-and-talks.md)
