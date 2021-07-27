@@ -22,6 +22,12 @@ Use Annelies' tips! [**Rewatch it 🥳**](../../workshops-and-talks.md#how-to-pr
 More Tips & Tricks on [**https://help.osoc.be/global/tutorials/pitching**](https://help.osoc.be/global/tutorials/pitching)\*\*\*\*
 {% endhint %}
 
+## Wonder Test at 13:00 + Mic & Video test
+
+{% page-ref page="../../moderating-wonder-circles.md" %}
+
+{% embed url="https://help.osoc.be/global/tutorials/pitching/the-pitch" %}
+
 ## Invite People to the Demo Day!
 
 Don't just invite your friends and family to show off what you made; invite your \(future\) colleagues and employers – so you get to land that dream job 😎[**https://bit.ly/DemoDayosoc21**](https://bit.ly/DemoDayosoc21)\*\*\*\*
