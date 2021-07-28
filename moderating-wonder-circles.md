@@ -118,7 +118,7 @@ Good luck and remember to have fun 🤩
 * **Make sure just 1 person shares their screen.** Avoid switching between people sharing screens; this causes issues when there's a lot of switching. 
 * **Do not tinker with locking circles.** We want conversations to remain open, anyone can drop in \(up until 15 people\).
 
-## Making it Nice for You
+### Making it Nice for You
 
 If your computer is struggling...
 
