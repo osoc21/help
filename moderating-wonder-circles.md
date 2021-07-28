@@ -110,3 +110,27 @@ Pick how, just make sure your team knows in advance!
 Good luck and remember to have fun 🤩
 {% endhint %}
 
+## Optimising the Experience of Wonder
+
+### Making it Nice for Others
+
+* **Turn off your camera, ask people to do the same.** Only turn it on when you are speaking. This will reduce browser overload. _Want to add that human touch to your breakout room? Add a nice pic of your team in the intro of your presentation._ 
+* **Make sure just 1 person shares their screen.** Avoid switching between people sharing screens; this causes issues when there's a lot of switching. 
+* **Do not tinker with locking circles.** We want conversations to remain open, anyone can drop in \(up until 15 people\).
+
+## Making it Nice for You
+
+If your computer is struggling...
+
+* **Turn off all programs and tabs in your browser that are not needed.** Wonder takes up a lot of space.
+* **Disconnect external screens.** They take up a lot of space as well.
+* **Discord takes up a lot of computer power.**
+  * **Go to settings &gt; advanced in Discord and turn \***_**off\***_ **Hardware Acceleration.**
+  * Still struggling? **Consider using your phone for Discord** and turn it off on your computer.
+
+![Where to turn \*off\* Hardware Acceleration in Discord](.gitbook/assets/screenshot-2021-07-28-at-17.08.26.png)
+
+* **Turn \***_**on\***_ **hardware acceleration for your browser.** This will help Wonder perform better.
+
+![Turn \*on\* hardware acceleration in your browser.](.gitbook/assets/screenshot-2021-07-28-at-17.15.png)
+
