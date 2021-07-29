@@ -116,7 +116,8 @@ Good luck and remember to have fun 🤩
 
 * **Turn off your camera, ask people to do the same.** Only turn it on when you are speaking. This will reduce browser overload. _Want to add that human touch to your breakout room? Add a nice pic of your team in the intro of your presentation._ 
 * **Make sure just 1 person shares their screen.** Avoid switching between people sharing screens; this causes issues when there's a lot of switching. 
-* **Do not tinker with locking circles.** We want conversations to remain open, anyone can drop in \(up until 15 people\).
+* **Do not tinker with locking circles.** We want conversations to remain open, anyone can drop in \(up until 15 people\). 
+* _**Be calm, slow, in your talking, and in your demos**_. You don't have control over other people's internet connection. Make sure they can see what you're doing, even if they have potato internet.
 
 ### Making it Nice for You
 
